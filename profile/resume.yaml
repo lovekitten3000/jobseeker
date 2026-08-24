@@ -6,13 +6,11 @@
 name: "Duy Tran"
 
 contact:
-  # [GAP] Confirm the address you want on job applications. Your Claude account
-  # email is lovekitten3000@gmail.com, but that is an account identifier, not a
-  # stated preference, so it is deliberately not filled in here.
-  email: ""
-  phone: ""            # [GAP]
-  location: ""         # [GAP] e.g. how you'd write it on an application
-  links: []            # [GAP] LinkedIn, portfolio, ORCID, or Google Scholar
+  email: "duyphongtran777@gmail.com"
+  phone: "0405 671 090"
+  location: "Sydney, NSW"
+  links:
+    - "https://www.linkedin.com/in/duy-tran-b431971a9/"
 
 employers:
   - company: "ACON"

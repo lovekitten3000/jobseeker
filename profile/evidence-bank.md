@@ -196,30 +196,51 @@ narrative: >
 ### ev:0014 — Lead-authored a published scoping review on LGBTQ+ lateral violence
 role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
-metric:     n/a (peer-reviewed publication)
+metric:     78 citations (Google Scholar, as of 2026-08-24)
 confidence: measured
-source:     "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality
-scope:      lead author, one published scoping review
+source:     Tran, Sullivan & Nicholas (2023), "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality, 70(7), 1310-1324; published online 10 Jan 2022. DOI: https://doi.org/10.1080/00918369.2021.2020543
+            Citation count read off Google Scholar by the candidate on 2026-08-24:
+            URL: https://scholar.google.com/scholar?cites=9750624457948213398&as_sdt=2005&sciodt=0,5&hl=en
+            Note: the publisher's own cover sheet showed 20 citing articles. Scholar
+            indexes more source types than Crossref, so the two legitimately differ.
+            Both are snapshots that climb over time — date the figure when citing it.
+scope:      first author of three, one published scoping review
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, qualitative synthesis
 angles:     research-to-publication
 narrative: >
   Led the writing, editing, and publication of "Lateral Violence and
   Microaggressions in the LGBTQ+ Community: A Scoping Review," published in
-  the Journal of Homosexuality.
+  the Journal of Homosexuality as first author of three. Cited 78 times as
+  of August 2026.
 
-### ev:0015 — Co-authored three peer-reviewed papers on First Nations LGBTQ+ health
+### ev:0015 — Co-authored three peer-reviewed papers on Indigenous LGBTIQ+ experiences
 role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
 metric:     n/a (peer-reviewed publications)
 confidence: measured
-source:     peer-reviewed publications co-authored during this role — [GAP: exact titles/journals not yet recorded; ask for citation details if a draft needs to name them]
-scope:      co-author, three published papers exploring First Nations LGBTQ+ people's navigation of health systems and spaces of belonging
+source:     three peer-reviewed papers, second author on each; citations verified against
+            the published PDFs supplied by the candidate 2026-08-24 —
+            - Sullivan, Tran, Trewlynn, Spurway, Leha, Briskman & Soldatic (2022), "'We
+              Want to Help but We Don't Know What to Do': Service Providers Working with
+              Indigenous LGBTIQ+ Youth in Australia," Sexes, 3(2), 308-324.
+              DOI: https://doi.org/10.3390/sexes3020024
+            - Sullivan, Tran, Spurway, Briskman, Leha, Trewlynn & Soldatic (2023), "'This
+              is our place, but we're the outsiders': the navigation of identity and spaces
+              of belonging by Indigenous LGBTIQ+ women in Australia," Australian
+              Geographer, 54(3), 347-364. DOI: https://doi.org/10.1080/00049182.2023.2251626
+            - Sullivan, Tran, Spurway, Briskman, Leha, Trewlynn & Soldatic (2024),
+              "'Absolutely it was not safe': Indigenous LGBTIQSB+ experiences of education
+              in Australia," The Australian Journal of Indigenous Education, 53(1).
+              DOI: https://doi.org/10.55146/ajie.v53i1.664
+scope:      second author, three published papers on Indigenous LGBTIQ+ people's experiences of service provision, education, and spaces of belonging in Australia
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, first nations health
 angles:     research-to-publication
 narrative: >
-  Co-authored three peer-reviewed papers exploring First Nations LGBTQ+
-  people's navigation of health systems and spaces of belonging, produced
-  during this research assistant role.
+  Co-authored three peer-reviewed papers on Indigenous LGBTIQ+ people's
+  experiences of service provision, education, and spaces of belonging in
+  Australia, second author on each. The research was produced during this
+  research assistant role; the papers were published after it ended, from
+  2022 onward.
 
 ### ev:0016 — Ran mixed-methods analysis across four LGBTQ+ research projects
 role:       Research Assistant (Casual), Western Sydney University
@@ -287,8 +308,6 @@ narrative: >
 - No project management certification (e.g. PMP, PRINCE2, AgilePM).
 - Detailed engagement/reach metrics for ACON Westie beyond follower count
   are not currently tracked or on hand [GAP].
-- Exact citation details (titles, journals) for the three co-authored papers
-  in ev:0015 are not yet recorded [GAP].
 
 ## Angles
 
