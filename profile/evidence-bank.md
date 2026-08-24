@@ -196,16 +196,22 @@ narrative: >
 ### ev:0014 — Lead-authored a published scoping review on LGBTQ+ lateral violence
 role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
-metric:     n/a (peer-reviewed publication)
+metric:     78 citations (Google Scholar, as of 2026-08-24)
 confidence: measured
 source:     Tran, Sullivan & Nicholas (2023), "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality, 70(7), 1310-1324; published online 10 Jan 2022. DOI: https://doi.org/10.1080/00918369.2021.2020543
+            Citation count read off Google Scholar by the candidate on 2026-08-24:
+            URL: https://scholar.google.com/scholar?cites=9750624457948213398&as_sdt=2005&sciodt=0,5&hl=en
+            Note: the publisher's own cover sheet showed 20 citing articles. Scholar
+            indexes more source types than Crossref, so the two legitimately differ.
+            Both are snapshots that climb over time — date the figure when citing it.
 scope:      first author of three, one published scoping review
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, qualitative synthesis
 angles:     research-to-publication
 narrative: >
   Led the writing, editing, and publication of "Lateral Violence and
   Microaggressions in the LGBTQ+ Community: A Scoping Review," published in
-  the Journal of Homosexuality.
+  the Journal of Homosexuality as first author of three. Cited 78 times as
+  of August 2026.
 
 ### ev:0015 — Co-authored three peer-reviewed papers on Indigenous LGBTIQ+ experiences
 role:       Research Assistant (Casual), Western Sydney University
