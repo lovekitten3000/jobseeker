@@ -11,6 +11,8 @@ import os
 import subprocess
 import sys
 
+import pytest
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BIN = os.path.join(ROOT, "bin")
 FIX = os.path.join(ROOT, "tests", "fixtures")
@@ -548,6 +550,35 @@ def test_unbacked_skill_still_fails(tmp_path):
 # ── template hygiene (PRD §19.2) ───────────────────────────────────────────
 
 
+def _is_template_repo() -> bool:
+    """True when this checkout is the shared template, not a private instance.
+
+    Mirrors the scoping already on the workflow's own template-hygiene step
+    (`if: endsWith(github.repository, '/jobseeker-template')`). A private
+    instance is *supposed* to carry a full profile/ — check_template_clean.py
+    says so in its own docstring — so asserting the guard passes everywhere
+    would turn every completed `/setup` into a permanent CI failure.
+    """
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    if not repo:
+        try:
+            repo = subprocess.run(
+                ["git", "-C", ROOT, "remote", "get-url", "origin"],
+                capture_output=True,
+                text=True,
+                timeout=10,
+                check=False,
+            ).stdout
+        except (OSError, subprocess.SubprocessError):
+            return False
+    name = repo.strip().removesuffix(".git").rstrip("/").rsplit("/", 1)[-1]
+    return name == "jobseeker-template"
+
+
+@pytest.mark.skipif(
+    not _is_template_repo(),
+    reason="private instance: a populated profile/ is expected here (PRD §19.2)",
+)
 def test_template_carries_no_personal_data():
     r = run("check_template_clean.py", "--root", ROOT)
     assert r.returncode == 0, r.stderr

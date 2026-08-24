@@ -1,0 +1,114 @@
+# config.yaml — everything behavioural. PRD §12. No code edits.
+# Only the human edits this file. Never written during a sweep (red line 7).
+
+scoring:
+  threshold: 70
+  queue_cap: 6
+  near_miss_band: 15
+  near_miss_cap: 4
+
+cover:
+  max_words: 450
+
+ats:
+  top_keywords: 25
+  max_repeats: 4
+  # Australian public-sector and NGO postings phrase their requirements blocks
+  # differently from the built-in defaults. "Selection criteria", "essential",
+  # and "capabilities" are the standard NSW/APS wording.
+  required_cues:
+    - "requirements"
+    - "what you'll need"
+    - "selection criteria"
+    - "essential criteria"
+    - "essential requirements"
+    - "about you"
+    - "key capabilities"
+  preferred_cues:
+    - "nice to have"
+    - "desirable"
+    - "highly regarded"
+    - "desirable criteria"
+    - "advantageous"
+  body_cues:
+    - "responsibilities"
+    - "about"
+    - "benefits"
+    - "about the role"
+    - "about us"
+    - "how to apply"
+  # Words every health/community/gov posting says about every job, which would
+  # otherwise crowd out the real keywords.
+  extra_boilerplate:
+    - "applicants"
+    - "employer"
+    - "opportunity"
+    - "candidates"
+    - "diversity"
+    - "inclusive"
+    - "workplace"
+    - "eoi"
+
+tracker:
+  ghost_days: 21
+
+style:
+  banned:
+    # punctuation
+    - "—"
+    # filler openings / closings
+    - "I am writing to apply"
+    - "excited to apply"
+    - "thrilled"
+    - "in conclusion"
+    # negation-parallel constructions
+    - "not just"
+    - "not only"
+    - "not merely"
+    - "not simply"
+    # AI-speak and corporate buzzwords
+    - "delve"
+    - "spearhead"
+    - "leverag"
+    - "seamless"
+    - "cutting-edge"
+    - "fast-paced"
+    - "proven track record"
+    - "passionate about"
+    - "tapestry"
+    - "unlock"
+    - "paramount"
+    - "furthermore"
+    - "moreover"
+    - "symphony"
+    - "testament"
+    - "game-chang"
+    - "in today's"
+    # fake reveals
+    - "here's the truth"
+    - "what nobody tells you"
+    - "at the end of the day"
+  banned_regex:
+    - "\\bit'?s not [^.!?\\n]{1,60}?[,;.] ?it'?s\\b"
+    - "\\bisn'?t [^.!?\\n]{1,60}?[,;.] ?it'?s\\b"
+
+constraints:
+  # A soft target, not the goal. $100k+ AUD is what the search is FOR (see
+  # goals.yaml `why`), but NSW/APS and university roles routinely advertise a
+  # band starting below it, so the floor sits lower to avoid killing roles
+  # whose top-of-band clears the target.
+  comp_floor: 85000
+  currency: AUD
+  remote: preferred
+  locations:
+    - "Sydney"
+    - "Greater Western Sydney"
+    - "NSW"
+    - "Remote (Australia)"
+  notice_period_weeks: null      # [GAP] what notice do you owe ACON?
+  max_travel_pct: null
+  dealbreakers:
+    - "military"
+    - "defence"
+    - "defense"
+    - "police"

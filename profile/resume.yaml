@@ -1,0 +1,48 @@
+# resume.yaml — canonical facts. PRD §8.3.
+# Every employer, title, and date, exactly once. Tailored variants must match
+# these strings exactly; validate.py fails any variant that diverges.
+# Only the human edits this file. Never written during a sweep (red line 7).
+
+name: "Duy Tran"
+
+contact:
+  # [GAP] Confirm the address you want on job applications. Your Claude account
+  # email is lovekitten3000@gmail.com, but that is an account identifier, not a
+  # stated preference, so it is deliberately not filled in here.
+  email: ""
+  phone: ""            # [GAP]
+  location: ""         # [GAP] e.g. how you'd write it on an application
+  links: []            # [GAP] LinkedIn, portfolio, ORCID, or Google Scholar
+
+employers:
+  - company: "ACON"
+    title: "Community Health Promotion Officer - Peer Education"
+    dates: "Aug 2022 - Present"
+    location: "Greater Western Sydney"
+    basis: "Full-time"
+
+  - company: "Western Sydney University"
+    title: "Research Assistant"
+    dates: "Oct 2021 - Jul 2022"
+    basis: "Casual"
+
+  - company: "YCollab"
+    title: "Volunteer, South-West Sydney Queer Safe Space"
+    dates: "Apr 2022 - Mar 2023"
+    basis: "Volunteer"
+
+  - company: "BlaQ Aboriginal Corporation"
+    title: "Volunteer & Intern"
+    dates: "Jul 2021 - Mar 2022"
+    basis: "Volunteer"
+
+education:
+  - institution: "University of New South Wales"
+    qualification: "Master of Health Leadership and Management / Master of Public Health"
+    dates: "Mar 2025 - Present"
+    detail: "Current WAM: 85"
+
+  - institution: "Western Sydney University"
+    qualification: "Bachelor of Social Science (Advanced), Sociology Major, Applied Leadership Sub-major"
+    dates: "Mar 2019 - Nov 2021"
+    detail: "Graduated with Distinction (GPA: 6.5/7.0). Academic focus on race and ethnicity, gender, sexuality, and intersectionality."
