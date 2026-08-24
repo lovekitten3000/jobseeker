@@ -1,0 +1,101 @@
+# meta.yaml — Transport for NSW, Project Support Officer (job ref 105567)
+date: "2026-08-24"
+company: "Transport for NSW"
+title: "Project Support Officer"
+status: "queued"
+url: ""
+
+source: "found by the human, added via /add (interactive)"
+job_ref: "105567"
+location: "Sydney, NSW 2000"
+employment_type: "Permanent Full-Time"
+salary_range: "AUD 95,543 - 100,405"
+closes: "2026-08-27"
+contact: "ANNE.TRAN@TRANSPORT.NSW.GOV.AU"
+
+triage:
+  score: 45
+  track: "none"
+  reason: >
+    Title matches primary track exactly, but the posting is for
+    transport/infrastructure project support, not health/community
+    initiatives. The candidate's stated goal is project work in
+    health/community domains at government agencies or NGOs. Domain mismatch
+    means no track served. Evidence shows program delivery and volunteer
+    coordination; the JD asks for project administration, documentation
+    management, and operational coordination — a hard function fit problem.
+  red_flags:
+    - "Domain mismatch: posting is infrastructure (Roads/Transport), candidate's track specifies health/community initiatives"
+    - "Role is project administrative support; candidate's evidence is program design/delivery/research, not operational coordination"
+    - "No evidence of project administration, records management, or documentation-coordination experience"
+
+track: "none"
+track_note: >
+  No track in goals.yaml covers this posting. The human chose to pursue it
+  anyway under /add. Every angle in the evidence bank serves the primary
+  (health/community) track, so the variant is positioned on an argument the
+  bank framed for a different domain.
+
+angle: "multicultural-lgbtq-health-program-lead"
+angle_fit: "partial"
+angle_note: >
+  Closest available fit, chosen because its proof entries cover the terms this
+  posting repeats most (project/delivery coordination, stakeholder, community
+  consultation). Its claim is health-domain, and the documentation half of the
+  JD is carried by evidence outside the angle (ev:0014, ev:0015, ev:0016,
+  ev:0002).
+angle_proof_led_with:
+  - "ev:0005"
+  - "ev:0007"
+  - "ev:0003"
+
+jd_keywords_top:
+  - "project"
+  - "information"
+  - "documentation"
+  - "stakeholder"
+  - "project coordination"
+  - "competing priorities"
+  - "delivery"
+  - "reporting"
+  - "records management"
+  - "preparing clear documentation"
+
+ats:
+  required_covered: 8
+  required_total: 24
+  preferred_covered: 0
+  preferred_total: 0
+  body_covered: 0
+  body_total: 1
+  overall_covered: 8
+  overall_total: 25
+  overused: []
+  note: >
+    Numbers are from bin/ats_score.py, run on the final resume.yaml and
+    cover.md. Nine of the sixteen required-tier misses are fragments of the
+    posting's targeted-recruitment and diversity sentence (identify as
+    aboriginal, strait islander and/or, islander and/or neurodiverse, strongly
+    encourage candidates, encourage, recruitment) or parser junk (see, similar
+    support roles). Those were deliberately not chased.
+
+shortfalls:
+  - "No project administration or project coordination title, and no project support role of any kind"
+  - "No records management experience, and no named EDRMS (no Content Manager/TRIM, SharePoint or equivalent in the bank)"
+  - "No project reporting or status-reporting evidence; the reports cited in the bank are ACON's, used as metric sources, not documents the candidate produced"
+  - "No roads, active transport, infrastructure or transport-sector experience"
+  - "No project management certification (PRINCE2, PMP, AgilePM)"
+
+gaps:
+  - "Do you have records or document management system experience not captured in the bank (Content Manager/TRIM, SharePoint, Objective, a shared drive convention you owned)? Naming one would close the biggest miss on this posting honestly."
+  - "Do you produce any recurring written reports at ACON (monthly/quarterly program reporting, funder acquittals, board or KPI reports)? If so, that is missing evidence, not a shortfall."
+  - "Can you obtain the linked role description and information pack for ref 105567? It carries the NSW focus capabilities the panel scores against, and the letter should be re-spined on them."
+  - "This is a targeted recruitment encouraging candidates who identify as Aboriginal and/or Torres Strait Islander and/or Neurodiverse. Nothing in profile/ states your identity and nothing has been written into the resume or cover about it. Do you wish to self-identify in the application? You may decline to answer, and no draft will change unless you say so."
+
+company_research: "blocked — every source refused by the network egress proxy; see profile/companies/transport-for-nsw.md"
+
+files:
+  jd: "jd.md"
+  resume_variant: "resume.yaml"
+  resume: "resume.md"
+  cover: "cover.md"
