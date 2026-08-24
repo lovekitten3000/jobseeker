@@ -1,0 +1,61 @@
+# targets.yaml — the organisations you'd actually go to. PRD §4.1, §4.3.
+#
+# STATUS: companies not yet added. Until this list has entries, the nightly
+# sweep has nothing to watch and the system is /add-driven (paste a posting
+# you found yourself). See the note at the bottom on what is and isn't
+# reachable for this sector.
+
+companies: []
+  # Fill in as: {slug, ats}. Read the slug off the careers-page URL:
+  #   careers.pageuppeople.com/<instance>/<brand>/<lang>/...  -> pageup
+  #   boards.greenhouse.io/<slug>                             -> greenhouse
+  #   jobs.lever.co/<slug>                                    -> lever
+  #   jobs.ashbyhq.com/<slug>                                 -> ashby
+  #
+  # Example shape (replace with real ones):
+  #   - slug: "410/fb/en"
+  #     ats: pageup
+
+# location_filter — case-insensitive regexes applied at FETCH time, before
+# triage sees a posting. A posting is kept if any pattern matches its location
+# string; a posting with NO location string is always kept and goes to triage.
+#
+# Note: PageUp boards carry no location string in their job list, so every
+# PageUp posting reaches triage regardless of this filter. This mostly scopes
+# the Greenhouse/Lever-style boards.
+location_filter:
+  - "sydney"
+  - "parramatta"
+  - "western sydney"
+  - "new south wales"
+  - '\bNSW\b'
+  - "australia"
+  - '\bAU\b'
+  - "remote"
+
+# ── Honest expectation setting for this sector ────────────────────────
+#
+# The sweep can only reach the ten ATSes this repo ships adapters for. For
+# Australian health, community, and public-sector work that splits unevenly:
+#
+# REACHABLE (worth adding here):
+#   - Australian universities. Many run PageUp, which has an adapter. UNSW,
+#     Western Sydney University, and their peers are worth checking: open the
+#     careers page and see whether the URL is careers.pageuppeople.com/...
+#   - Larger NGOs and councils that use PageUp or one of the common ATSes.
+#
+# NOT REACHABLE (these stay /add-driven):
+#   - iworkfor.nsw.gov.au, the central NSW government jobs board.
+#   - APSJobs, the federal equivalent.
+#   - EthicalJobs, which carries much of the Australian community and health
+#     NGO sector.
+#   - Small local NGOs posting to their own site or to Seek.
+#
+# That is not a failure of the system. It means the sweep is a bonus on top of
+# a search that is mainly driven by /add: when you find a posting on
+# EthicalJobs or iworkfor, paste it into /add and the whole tailoring loop
+# runs on it exactly the same way.
+#
+# BEFORE THE SWEEP CAN RUN: the environment network allowlist must include the
+# ATS hosts. See docs/ENVIRONMENT.md §1. For PageUp that is
+# careers.pageuppeople.com. Without it, boards silently return nothing.
