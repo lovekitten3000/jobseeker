@@ -1,0 +1,94 @@
+# goals.yaml — where you want to GO. PRD §19.
+# Copy to profile/goals.yaml. `/setup` fills this in first, before the
+# evidence bank, because your goal decides which evidence is worth digging for.
+#
+# Why this file exists: the evidence bank says where you have BEEN. Without
+# this file, triage can only score a role by how much it resembles your last
+# job, so anyone changing direction gets shortlisted for the career they are
+# trying to leave. This file is the other half of the fit judgment.
+#
+# One track is normal. Two or three is normal if you are genuinely open to
+# different directions. More than three and the shortlist stops meaning
+# anything — pick.
+#
+# Order is priority: the first track is the one you most want.
+#
+# EVERY VALUE BELOW IS A PLACEHOLDER. Nothing here is a default, a suggestion,
+# or a starting point — this file describes no particular field, seniority or
+# region, because it is meant to fit whatever yours are. Replace every
+# angle-bracketed value with your own words before using it.
+
+tracks:
+  - id: primary                     # short, lowercase, unique — used in reports
+    label: "<the job, as you'd describe it to a friend>"
+    # Title words that mean "this is that job". Case-insensitive substrings,
+    # matched against the posting title. Include the variants employers
+    # actually use, not just the one you'd write on a business card — the
+    # tidy title and the ugly ones the same job gets posted under.
+    titles:
+      - "<title word or phrase>"
+      - "<another variant employers use>"
+    # Where in a career this sits FOR YOU. Triage uses it to judge level:
+    # a role pitched at your stage is a plus, never a penalty.
+    # e.g. student | graduate | early | mid | senior | lead | exec | returner
+    seniority: "<your stage>"
+    # One honest line. This is for you and for the human reading the shortlist,
+    # not for a cover letter.
+    why: "<why this one, honestly>"
+    # false — you have done this kind of work before.
+    # true  — you are moving INTO this from somewhere else (see `transferable`).
+    pivot: false
+    # Which `## Angles` from profile/evidence-bank.md support this track.
+    # Leave empty until the bank exists; /setup fills it in afterwards.
+    supporting_angles:
+      - "<angle-slug>"
+    # Per-track non-negotiables and turn-offs, in your field's own terms.
+    # These are narrower than the global `constraints` in config.yaml, which
+    # apply to every track. Empty is fine and common.
+    must_have: []                   # e.g. ["<a tool, licence or duty you need>"]
+    avoid: []                       # e.g. ["<the version of this job you don't want>"]
+
+  # A PIVOT track. This is the case the system exists to handle: the job you
+  # want is not the job you have had. Uncomment and fill in if it applies.
+  # - id: pivot
+  #   label: "<the job you are moving toward>"
+  #   titles: ["<title word>", "<another variant>"]
+  #   seniority: "<your stage in the NEW field>"
+  #   why: "<what makes this a real move, not a wish>"
+  #   pivot: true
+  #   supporting_angles: ["<angle-slug>"]
+  #   # REQUIRED when pivot is true. Which evidence carries across, in your own
+  #   # words. Triage credits this instead of penalising the missing title;
+  #   # the tailor leads with it. It cannot invent it, so be concrete and be
+  #   # honest: name the evidence IDs, not the aspiration.
+  #   transferable: >
+  #     <ev:NNNN and ev:NNNN are the work in your history that is genuinely
+  #     this job under a different name. Say what they are and why they count.>
+  #   # What you plainly do not have yet. This is a [SHORTFALL], stated once
+  #   # here so every draft states it the same way instead of writing around it.
+  #   known_gaps:
+  #     - "<the qualification, tool or years you don't have>"
+  #     - "<the second one>"
+  #   must_have: []
+  #   avoid: []
+
+# role_filter (optional, OFF by default) — case-insensitive regexes applied at
+# FETCH time, before triage ever sees a posting. Same kind of bookkeeping as
+# targets.yaml's `location_filter`: it scopes which postings enter the queue,
+# it never ranks them. A posting is kept if any pattern matches its title;
+# a posting with no title is always kept.
+#
+# The trade, stated plainly: this is the only narrowing in the pipeline that
+# can silently drop a good role a keyword rule misjudges — a posting whose
+# title says nothing about the work it actually describes. Triage would have
+# caught it; a regex will not. Leave it out unless you are targeting big
+# boards where the volume is real (a large employer can list hundreds of roles
+# across every function, and the most expensive way to reject a role in a
+# department you'd never work in is to score it with a model first). The sweep
+# reports how many postings it dropped, every run.
+#
+# A good starting set is the union of your tracks' `titles` above.
+#
+# role_filter:
+#   - "<title word>"
+#   - "<another variant>"

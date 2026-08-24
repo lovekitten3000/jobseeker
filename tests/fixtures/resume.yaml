@@ -1,0 +1,6 @@
+# Canonical facts fixture. validate.py checks variants against this.
+name: Pat Doe
+employers:
+  - company: Example Co
+    title: Staff Engineer
+    dates: "2021-03 → 2023-08"

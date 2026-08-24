@@ -1,0 +1,24 @@
+# A clean variant: every bullet cites a real ev, metrics respect confidence.
+name: Pat Doe
+contact:
+  email: pat@example.com
+  location: Remote
+label: platform-leader
+technologies: [ci-cd, docker, github-actions, terraform]
+sections:
+  - heading: Summary
+    bullets:
+      - text: "Platform engineer who makes the paved road other teams ship on."
+        ev: ev:0031
+  - heading: Experience
+    entries:
+      - company: Example Co
+        title: Staff Engineer
+        dates: "2021-03 → 2023-08"
+        bullets:
+          - text: "Cut median deploy time from 45m to 6m (87%) across ~200 deploys/wk."
+            ev: ev:0031
+          - text: "Rightsized ~120 services for a roughly 30% compute reduction."
+            ev: ev:0032          # estimated -> directional phrasing ("roughly")
+          - text: "Rebuilt on-call runbooks and coached the rotation to health."
+            ev: ev:0033          # qualitative -> no numerals

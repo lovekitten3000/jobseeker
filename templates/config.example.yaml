@@ -1,0 +1,108 @@
+# config.yaml — everything behavioural lives here (PRD §12). No code edits.
+# Copy to profile/config.yaml in your private instance and tune.
+
+scoring:
+  # Triage assigns 0–100. Postings below `threshold` are killed.
+  threshold: 70
+  # Hard ceiling on how many survivors reach a single sweep's PR (queue_cap).
+  # More survivors than this -> raise the threshold for THAT RUN ONLY and say
+  # so in the PR body. Never write the raised threshold back to config. §9.
+  queue_cap: 6
+  # Near-miss band. Postings scoring in [threshold - near_miss_band, threshold)
+  # aren't killed silently: the closest few surface as a separate `near_miss`
+  # tier the human judges at Gate 1 (/choose), each with the gap that sank it.
+  # This keeps a 100%-kill night from looking like a quiet one. Near misses
+  # never auto-shortlist and never count toward queue_cap. Set to 0 to disable.
+  near_miss_band: 15
+  # Hard ceiling on near-miss entries per run — the closest N by score.
+  near_miss_cap: 4
+
+cover:
+  # Cover-letter length ceiling. Raised to 450 in PRD §15.2/§15.5 when tailoring
+  # became interactive: the tailor targets 300–450 words (see agents/tailor.md),
+  # so a lower ceiling here just makes every letter overshoot its own limit.
+  # Lower it only if you genuinely want shorter letters than the tailor writes.
+  max_words: 450
+
+ats:
+  # bin/ats_score.py — deterministic keyword coverage for a tailored draft
+  # (PRD §21). Defaults are sensible; every key here is optional.
+  top_keywords: 25            # how many of the posting's own terms to score
+  max_repeats: 4              # more than this in one resume reads as stuffing
+  # Headings that open a hard-requirements block, and a nice-to-have block.
+  # These are hiring-document conventions, not your field's vocabulary — set
+  # them if your postings phrase these sections differently (another language,
+  # a public-sector template, an agency house style).
+  # required_cues:  ["requirements", "what you'll need", "selection criteria"]
+  # preferred_cues: ["nice to have", "desirable", "highly regarded"]
+  # body_cues:      ["responsibilities", "about", "benefits"]   # ends a block
+  # Words every posting in YOUR field says about every job, which would
+  # otherwise crowd out the real keywords. Added to the built-in list.
+  extra_boilerplate: []
+
+tracker:
+  # Applied + silent this many days -> auto-ghosted. Silence needs no /log. G4.
+  ghost_days: 21
+
+style:
+  # Deterministic style gate (validate.py). Any of these substrings in a resume
+  # bullet or cover letter fails validation. Case-insensitive substring match.
+  # Add your pet hates; remove anything you genuinely say. Omit the section
+  # entirely to get validate.py's built-in defaults (same lists as below).
+  banned:
+    # punctuation
+    - "—"                       # em dash: the AI tell; use a comma or a period
+    # filler openings / closings
+    - "I am writing to apply"
+    - "excited to apply"
+    - "thrilled"
+    - "in conclusion"
+    # negation-parallel constructions ("not just X, but Y" family)
+    - "not just"
+    - "not only"
+    - "not merely"
+    - "not simply"
+    # AI-speak and corporate buzzwords
+    - "delve"
+    - "spearhead"
+    - "leverag"                 # leverage / leveraging
+    - "seamless"
+    - "cutting-edge"
+    - "fast-paced"
+    - "proven track record"
+    - "passionate about"
+    - "tapestry"
+    - "unlock"                  # unlock / unlocking / unlocked
+    - "paramount"
+    - "furthermore"
+    - "moreover"
+    - "symphony"
+    - "testament"
+    - "game-chang"              # game-changer / game-changing
+    - "in today's"              # "in today's fast-paced world"
+    # fake reveals
+    - "here's the truth"
+    - "what nobody tells you"
+    - "at the end of the day"
+  # Structures a substring can't catch. Case-insensitive regex; validate.py
+  # fails on any match. Defaults cover "It's not X, it's Y" spellings.
+  banned_regex:
+    - "\\bit'?s not [^.!?\\n]{1,60}?[,;.] ?it'?s\\b"
+    - "\\bisn'?t [^.!?\\n]{1,60}?[,;.] ?it'?s\\b"
+
+# Constraints & preferences — triage reads these, and they apply to EVERY
+# track in profile/goals.yaml. Anything true of only one track (a licence, a
+# shift pattern, a must-have tool) belongs in that track's `must_have` /
+# `avoid` instead. A JD that demands a listed dealbreaker as a hard requirement
+# is a red flag, not a tailoring problem.
+#
+# These are placeholders, not recommendations — `remote: required` will kill a
+# great many perfectly good roles if you don't actually mean it. Set every line
+# to what is true for you.
+constraints:
+  comp_floor: null            # a number in your own currency, or null for none
+  remote: preferred           # required | preferred | onsite_ok
+  locations: []               # the places you'd work, written as you'd write them
+  notice_period_weeks: null
+  max_travel_pct: null
+  dealbreakers: []            # the things that make a role a no, in your words

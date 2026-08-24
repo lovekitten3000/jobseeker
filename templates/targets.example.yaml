@@ -1,0 +1,60 @@
+# targets.yaml — the companies you'd actually go to. PRD §4.1, §4.3.
+# Copy to profile/targets.yaml. `ats` is the adapter; `slug` is the board slug.
+#
+# Finding the slug: it's in the careers-page URL.
+#   boards.greenhouse.io/SLUG   ·   jobs.lever.co/SLUG   ·   jobs.ashbyhq.com/SLUG
+#   apply.workable.com/SLUG     ·   jobs.smartrecruiters.com/SLUG
+#   SLUG.recruitee.com          ·   careers.pageuppeople.com/SLUG/...
+#
+# ats ∈ { greenhouse, lever, ashby, workable, smartrecruiters,
+#         recruitee, workday, oracle, pageup, teamtailor }
+#
+# The first five are the common ATSes and need no extra setup. The other five
+# reach additional hosts — if you use one, add its host to the environment
+# allowlist too (docs/ENVIRONMENT.md §1), or the sweep silently skips it. Their
+# slug shapes differ (each adapter's docstring in bin/lib/sources/ carries a
+# worked example read off a live board):
+#   workday   — "<tenant>/<dc>/<site>"   off https://<tenant>.<dc>.myworkdayjobs.com/<site>
+#   oracle    — "<host>/<site>"          the Fusion pod host plus the site name
+#   teamtailor— the board's own host     e.g. careers.<company>.com
+#   recruitee — the company slug         <company>  (-> <company>.recruitee.com)
+#   pageup    — the path from the URL    <instance>/<brand>/<lang>
+
+companies:
+  - slug: example-co
+    ats: greenhouse
+  - slug: another-co
+    ats: lever
+  - slug: third-co
+    ats: ashby
+
+# Add companies that hire for EVERY track in profile/goals.yaml, not just your
+# first one — a track with no employers behind it produces a permanently empty
+# section of every shortlist. And if your field mostly doesn't use these ten
+# ATSes (public sector, healthcare systems, education, small local employers
+# often don't), that's fine: your system is `/add`-driven and the sweep is a
+# bonus on top.
+#
+# To scope by ROLE rather than company, see `role_filter` in
+# templates/goals.example.yaml. It is off by default.
+
+# location_filter (optional) — case-insensitive regexes applied at FETCH time,
+# before triage ever sees a posting. A posting is kept if any pattern matches
+# its location string; a posting with no location string is always kept (it
+# goes to triage, which can judge it). This is bookkeeping, not judgment: it
+# scopes which postings enter the queue at all. Leave it out and every office
+# worldwide from a big board floods triage — the most expensive way to reject
+# a role on the other side of the world is to score it first.
+#
+# Write the patterns your own boards actually print: your city, the ones near
+# it, your state or region, your country and whatever abbreviation boards use
+# for it, and "remote" if you'd take it. Match how they appear in a posting's
+# location line, not how you'd say them. Omit the whole key to keep everything.
+#
+# location_filter:
+#   - "<your city>"
+#   - "<a second city you'd work in>"
+#   - "<your state or region>"
+#   - "<your country>"
+#   - '\b<COUNTRY CODE>\b'
+#   - remote

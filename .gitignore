@@ -1,0 +1,13 @@
+# Python caches only. Do NOT ignore queue/shortlist/, queue/ready/, applied/,
+# state/, or *.pdf — in a private instance the repo IS the database; those must
+# be committed (PRD §5.2).
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# queue/raw/ is fetch-time scratch, never durable state: seen shards and the
+# shortlist are the records. Ignoring it makes "commit queue/" safe — raw
+# posting JSONs can never leak into a PR, and an interrupted sweep's leftovers
+# are simply re-fetched next run (PRD §6).
+queue/raw/

@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install pyyaml httpx pydantic pytest ruff
+      - name: Lint
+        run: ruff check bin/ tests/
+      - name: Acceptance tests
+        run: python3 -m pytest tests/ -q
+
+      # The template must never carry anyone's career history: every copy
+      # inherits what is committed here. A private instance is *supposed* to
+      # have a full profile/, so this step is scoped to the template repo and
+      # never fails in a friend's fork. (PRD §19.2)
+      - name: Template carries no personal data
+        if: endsWith(github.repository, '/jobseeker-template')
+        run: python3 bin/check_template_clean.py
