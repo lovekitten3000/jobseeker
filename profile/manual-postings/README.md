@@ -20,4 +20,4 @@ hand and run `/log`.
 
 | Added | Company | Role | Location | Status | File |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-24 | Think HQ | Community Engagement Lead | Melbourne or Sydney (hybrid) | new | [think-hq-community-engagement-lead.md](think-hq-community-engagement-lead.md) |
+| 2026-08-24 | Think HQ | Community Engagement Lead | Melbourne or Sydney (hybrid) | drafted | [think-hq-community-engagement-lead.md](think-hq-community-engagement-lead.md) |

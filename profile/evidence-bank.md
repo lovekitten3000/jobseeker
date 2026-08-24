@@ -307,6 +307,37 @@ narrative: >
   2026-08-24. Recorded because community engagement roles routinely make
   appointment conditional on it.
 
+### ev:0021 — Studying a Master of Health Leadership and Management / Master of Public Health
+role:       n/a (qualification)
+dates:      2025-03 → present
+metric:     current WAM 85
+confidence: measured
+source:     profile/resume.yaml, the candidate's canonical record of their own
+            qualifications. Transcribed into the bank 2026-08-24 so education
+            can appear on a variant (render.py requires an ev: on every bullet).
+scope:      University of New South Wales, in progress
+tags:       public health, health leadership, health management, postgraduate study
+narrative: >
+  Studying a Master of Health Leadership and Management / Master of Public
+  Health at the University of New South Wales, commenced March 2025 and
+  ongoing. Current WAM 85.
+
+### ev:0022 — Bachelor of Social Science (Advanced), graduated with Distinction
+role:       n/a (qualification)
+dates:      2019-03 → 2021-11
+metric:     GPA 6.5 out of 7.0
+confidence: measured
+source:     profile/resume.yaml, the candidate's canonical record of their own
+            qualifications. Transcribed into the bank 2026-08-24 so education
+            can appear on a variant (render.py requires an ev: on every bullet).
+scope:      Western Sydney University, Sociology major, Applied Leadership sub-major
+tags:       sociology, applied leadership, undergraduate study, intersectionality, gender and sexuality studies, race and ethnicity
+narrative: >
+  Bachelor of Social Science (Advanced) from Western Sydney University,
+  Sociology major with an Applied Leadership sub-major, graduated with
+  Distinction on a GPA of 6.5 out of 7.0. Academic focus on race and
+  ethnicity, gender, sexuality, and intersectionality.
+
 ## Shortfalls
 
 - No formal qualification in marketing, communications, or design — comms

@@ -1,0 +1,112 @@
+# Variant — Think HQ, Community Engagement Lead. Track: primary.
+# Angle: multicultural-lgbtq-health-program-lead (bank `## Angles`).
+# Every bullet cites an ev in profile/evidence-bank.md. Employers, titles and
+# dates copied verbatim from profile/resume.yaml.
+
+name: "Duy Tran"
+
+contact:
+  email: "duyphongtran777@gmail.com"
+  phone: "0405 671 090"
+  location: "Sydney, NSW"
+  links:
+    - "https://www.linkedin.com/in/duy-tran-b431971a9/"
+
+angle: multicultural-lgbtq-health-program-lead
+
+sections:
+  - heading: Summary
+    bullets:
+      - text: "Health promotion practitioner with four years in community engagement, designing and delivering culturally responsive programs for multicultural LGBTQ+ communities in Western Sydney and reaching 300+ participants a year."
+        ev: ev:0005
+      - text: "Builds and maintains working relationships across multicultural and faith-based organisations, health services, universities and research bodies."
+        ev: ev:0007
+      - text: "Recruits, trains and coordinates a volunteer workforce of 60+ peer educators delivering workshops across Greater Sydney."
+        ev: ev:0006
+
+  - heading: Experience
+    entries:
+      - company: "ACON"
+        title: "Community Health Promotion Officer - Peer Education"
+        dates: "Aug 2022 - Present"
+        location: "Greater Western Sydney"
+        bullets:
+          - text: "Runs community consultations with LGBTQ+ people from multicultural communities, young people and people of faith to inform program development, organisational priorities and policy initiatives."
+            ev: ev:0010
+          - text: "Develops partnerships with Local Health Districts, sexual and reproductive health services and mental health services to strengthen ACON's presence in Western Sydney."
+            ev: ev:0007
+          - text: "Designs and delivers peer-led health promotion initiatives for LGBTQ+ communities across Western Sydney, reaching 300+ participants a year."
+            ev: ev:0005
+          - text: "Led the consultation, development and delivery of Start Making Sense, a workshop supporting LGBTQ+ Middle Eastern men to navigate culture and sexuality, with attendance meeting ACON's per-session target."
+            ev: ev:0003
+          - text: "Designed and facilitated Starting Out West, a culturally responsive workshop built on lived-experience expertise, with accessibility support for multicultural and neurodiverse participants."
+            ev: ev:0004
+          - text: "Trains and coordinates the peer educator workforce, building the capability to deliver workshops and engagement activities across Greater Sydney."
+            ev: ev:0006
+          - text: "Evaluates and refines the legacy peer education workshops, including sessions on healthy relationships, sex education and identity."
+            ev: ev:0011
+          - text: "Delivers targeted health promotion initiatives for priority populations working alongside ACON's First Nations Health Program, Women's Health Program and Asian Gay, Bi+, Queer Men's Project."
+            ev: ev:0012
+          - text: "Launched and grew ACON Westie, a platform running across Instagram, TikTok and Facebook, from zero to 3,205 followers, with a focus on multicultural and underrepresented communities."
+            ev: ev:0001
+
+      - company: "Western Sydney University"
+        title: "Research Assistant"
+        dates: "Oct 2021 - Jul 2022"
+        bullets:
+          - text: "Conducted qualitative and quantitative analysis across concurrent LGBTQ+ research projects, drawing on survey data, interviews and workshops."
+            ev: ev:0016
+          - text: "Worked with BlaQ Aboriginal Corporation and First Nations LGBTQ+ researchers to apply decolonised, strengths-based methods and ensure the research was informed by the people it was about."
+            ev: ev:0017
+          - text: "Lead-authored a scoping review of lateral violence and microaggressions among LGBTQ+ people, published in the Journal of Homosexuality and cited 78 times as of August 2026."
+            ev: ev:0014
+
+  - heading: Education
+    bullets:
+      - text: "Studying a Master of Health Leadership and Management / Master of Public Health at the University of New South Wales, from March 2025, current WAM 85."
+        ev: ev:0021
+      - text: "Bachelor of Social Science (Advanced) from Western Sydney University, Sociology major with an Applied Leadership sub-major, graduated with Distinction on a GPA of 6.5 out of 7.0."
+        ev: ev:0022
+
+  - heading: Volunteer Experience
+    entries:
+      - company: "YCollab"
+        title: "Volunteer, South-West Sydney Queer Safe Space"
+        dates: "Apr 2022 - Mar 2023"
+        bullets:
+          - text: "Supported the development and delivery of a safe space for LGBTQ+ young people in South-West Sydney, contributing to engagement activities and youth-focused initiatives."
+            ev: ev:0018
+
+      - company: "BlaQ Aboriginal Corporation"
+        title: "Volunteer & Intern"
+        dates: "Jul 2021 - Mar 2022"
+        bullets:
+          - text: "Planned and delivered online wellbeing workshops with BlaQ's Programs Coordinator, exploring the experiences and support needs of First Nations LGBTQ+ young people."
+            ev: ev:0019
+
+  - heading: Checks and Clearances
+    bullets:
+      - text: "Holds a current Working With Children Check."
+        ev: ev:0020
+
+skills:
+  - "Community Consultation"
+  - "Culturally Responsive Practice"
+  - "Program Design"
+  - "Program Delivery"
+  - "Workshop Facilitation"
+  - "Stakeholder Engagement"
+  - "Partnership Development"
+  - "Sector Collaboration"
+  - "Program Evaluation"
+  - "Volunteer Coordination"
+  - "Training and Facilitation"
+  - "Cross-Team Collaboration"
+  - "Accessibility"
+  - "Lived Experience Practice"
+  - "LGBTQ+ Health Promotion"
+  - "First Nations Partnership"
+  - "Qualitative Research"
+  - "Survey Design"
+  - "Data Analysis"
+  - "Policy Input"

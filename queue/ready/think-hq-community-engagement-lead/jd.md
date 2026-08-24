@@ -1,13 +1,3 @@
----
-company: Think HQ
-title: Community Engagement Lead
-location: Melbourne (South Melbourne) or Sydney (Surry Hills) — hybrid
-closing_date: not stated
-source: manual — pasted by the user
-added: 2026-08-24
-status: drafted
----
-
 # Think HQ — Community Engagement Lead
 
 ## Job Description
