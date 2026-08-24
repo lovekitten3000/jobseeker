@@ -198,7 +198,7 @@ role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
 metric:     n/a (peer-reviewed publication)
 confidence: measured
-source:     Tran, Sullivan & Nicholas, "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality, pp. 1310-1324, published online 10 Jan 2022. DOI: https://doi.org/10.1080/00918369.2021.2020543
+source:     Tran, Sullivan & Nicholas (2023), "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality, 70(7), 1310-1324; published online 10 Jan 2022. DOI: https://doi.org/10.1080/00918369.2021.2020543
 scope:      first author of three, one published scoping review
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, qualitative synthesis
 angles:     research-to-publication
@@ -212,21 +212,20 @@ role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
 metric:     n/a (peer-reviewed publications)
 confidence: measured
-source:     three peer-reviewed papers, second author on each; citation details supplied
-            by the candidate 2026-08-24 —
-            - Sullivan, Tran, Trewlynn, Spurway, Leha, Briskman & Soldatic, "'We Want to
-              Help but We Don't Know What to Do': Service Providers Working with
-              Indigenous LGBTIQ+ Youth in Australia," Sexes, 2022, 3(2), 308-324.
+source:     three peer-reviewed papers, second author on each; citations verified against
+            the published PDFs supplied by the candidate 2026-08-24 —
+            - Sullivan, Tran, Trewlynn, Spurway, Leha, Briskman & Soldatic (2022), "'We
+              Want to Help but We Don't Know What to Do': Service Providers Working with
+              Indigenous LGBTIQ+ Youth in Australia," Sexes, 3(2), 308-324.
               DOI: https://doi.org/10.3390/sexes3020024
-            - Sullivan, Tran, Spurway, Briskman, Leha & Trewlynn, "'This is our place, but
-              we're the outsiders': the navigation of identity and spaces of belonging by
-              Indigenous LGBTIQ+ women in Australia," pp. 347-364, published online
-              6 Sep 2023. DOI: https://doi.org/10.1080/00049182.2023.2251626
-              [GAP: journal name not stated in the details the candidate supplied.]
-            - Sullivan, Tran, Spurway, Briskman, Leha & Trewlynn, "'Absolutely it was not
-              safe': Indigenous LGBTIQSB+ experiences of education in Australia."
-              DOI: https://search.informit.org/doi/abs/10.3316/informit.T2024122200001901935161202
-              [GAP: journal name and publication year not stated in the details supplied.]
+            - Sullivan, Tran, Spurway, Briskman, Leha, Trewlynn & Soldatic (2023), "'This
+              is our place, but we're the outsiders': the navigation of identity and spaces
+              of belonging by Indigenous LGBTIQ+ women in Australia," Australian
+              Geographer, 54(3), 347-364. DOI: https://doi.org/10.1080/00049182.2023.2251626
+            - Sullivan, Tran, Spurway, Briskman, Leha, Trewlynn & Soldatic (2024),
+              "'Absolutely it was not safe': Indigenous LGBTIQSB+ experiences of education
+              in Australia," The Australian Journal of Indigenous Education, 53(1).
+              DOI: https://doi.org/10.55146/ajie.v53i1.664
 scope:      second author, three published papers on Indigenous LGBTIQ+ people's experiences of service provision, education, and spaces of belonging in Australia
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, first nations health
 angles:     research-to-publication
@@ -303,10 +302,6 @@ narrative: >
 - No project management certification (e.g. PMP, PRINCE2, AgilePM).
 - Detailed engagement/reach metrics for ACON Westie beyond follower count
   are not currently tracked or on hand [GAP].
-- Journal names are missing for two of the three co-authored papers in
-  ev:0015, and the publication year for one of them [GAP]. Titles, author
-  order, and DOIs are recorded, so a draft can name any of the papers; only
-  a formal reference list would still be incomplete.
 
 ## Angles
 
