@@ -105,7 +105,7 @@ constraints:
     - "Greater Western Sydney"
     - "NSW"
     - "Remote (Australia)"
-  notice_period_weeks: null      # [GAP] what notice do you owe ACON?
+  notice_period_weeks: 4         # 4 weeks' notice owed to ACON
   max_travel_pct: null
   dealbreakers:
     - "military"
