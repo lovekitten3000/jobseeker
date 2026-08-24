@@ -12,8 +12,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      # ruff is pinned deliberately. pyproject.toml selects no explicit rule
+      # list, so ruff's DEFAULT set applies, and that set grows with each
+      # release. An unpinned `pip install ruff` therefore means a lint step
+      # that passes today and fails tomorrow because someone else shipped a
+      # release, on a PR that changed nothing related.
+      #
+      # 0.15.22 is the newest release this tree is clean under. 0.16.0 widened
+      # the defaults and reports 57 findings here (I001, RUF100, UP017, SIM115,
+      # PLW1510 and friends). Bumping the pin is fine, but do it deliberately,
+      # in a commit that also carries the fixes for whatever the new version
+      # flags.
       - name: Install dependencies
-        run: pip install pyyaml httpx pydantic pytest ruff
+        run: pip install pyyaml httpx pydantic pytest 'ruff==0.15.22'
       - name: Lint
         run: ruff check bin/ tests/
       - name: Acceptance tests
