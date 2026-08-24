@@ -198,7 +198,7 @@ role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
 metric:     n/a (peer-reviewed publication)
 confidence: measured
-source:     "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality
+source:     "Lateral Violence and Microaggressions in the LGBTQ+ Community: A Scoping Review," Journal of Homosexuality — https://www.tandfonline.com/doi/full/10.1080/00918369.2021.2020543
 scope:      lead author, one published scoping review
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, qualitative synthesis
 angles:     research-to-publication
@@ -212,7 +212,14 @@ role:       Research Assistant (Casual), Western Sydney University
 dates:      2021-10 → 2022-07
 metric:     n/a (peer-reviewed publications)
 confidence: measured
-source:     peer-reviewed publications co-authored during this role — [GAP: exact titles/journals not yet recorded; ask for citation details if a draft needs to name them]
+source:     three peer-reviewed papers co-authored during this role; publisher links
+            supplied by the candidate 2026-08-24 —
+            - https://www.mdpi.com/2411-5118/3/2/24
+            - https://www.tandfonline.com/doi/full/10.1080/00049182.2023.2251626
+            - https://search.informit.org/doi/abs/10.3316/informit.T2024122200001901935161202
+            [GAP: titles and journal names not yet transcribed. The publisher hosts are
+            blocked by the session's egress proxy, so they must come from the candidate
+            before any draft names an individual paper.]
 scope:      co-author, three published papers exploring First Nations LGBTQ+ people's navigation of health systems and spaces of belonging
 tags:       academic writing, research, peer-reviewed publication, lgbtq+ research, first nations health
 angles:     research-to-publication
@@ -287,8 +294,9 @@ narrative: >
 - No project management certification (e.g. PMP, PRINCE2, AgilePM).
 - Detailed engagement/reach metrics for ACON Westie beyond follower count
   are not currently tracked or on hand [GAP].
-- Exact citation details (titles, journals) for the three co-authored papers
-  in ev:0015 are not yet recorded [GAP].
+- Titles and journal names for the three co-authored papers in ev:0015 are
+  not yet transcribed [GAP]. Publisher links for all three are recorded on
+  the entry; only a draft that needs to name an individual paper is blocked.
 
 ## Angles
 

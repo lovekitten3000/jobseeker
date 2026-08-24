@@ -9,7 +9,8 @@ contact:
   email: "duyphongtran777@gmail.com"
   phone: "0405 671 090"
   location: "Sydney, NSW"
-  links: []            # [GAP] LinkedIn, portfolio, ORCID, or Google Scholar
+  links:
+    - "https://www.linkedin.com/in/duy-tran-b431971a9/"
 
 employers:
   - company: "ACON"
