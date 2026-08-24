@@ -294,6 +294,19 @@ narrative: >
   workshops exploring the wellbeing, experiences, and support needs of First
   Nations LGBTQ+ young people.
 
+### ev:0020 — Holds a current Working With Children Check
+role:       n/a (credential)
+dates:      current
+metric:     n/a
+confidence: qualitative
+scope:      NSW Working With Children Check, held and current as of August 2026
+tags:       working with children check, wwcc, community engagement
+angles:     volunteer-and-people-coordinator
+narrative: >
+  Holds a current Working With Children Check, confirmed by the candidate on
+  2026-08-24. Recorded because community engagement roles routinely make
+  appointment conditional on it.
+
 ## Shortfalls
 
 - No formal qualification in marketing, communications, or design — comms
