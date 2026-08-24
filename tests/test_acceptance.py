@@ -567,6 +567,7 @@ def _is_template_repo() -> bool:
                 capture_output=True,
                 text=True,
                 timeout=10,
+                check=False,
             ).stdout
         except (OSError, subprocess.SubprocessError):
             return False
