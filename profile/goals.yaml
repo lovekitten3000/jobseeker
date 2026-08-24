@@ -1,0 +1,47 @@
+# goals.yaml — where you want to GO. PRD §19.
+# Filled in via /setup interview.
+
+tracks:
+  - id: primary
+    label: "Project/program work on health and community initiatives at universities, government agencies, or NGOs"
+    titles:
+      - "Project Support Officer"
+      - "Senior Project Officer"
+      - "Community Engagement Officer"
+      - "Health Promotion Officer"
+      - "Program Delivery Officer"
+    seniority: "early/mid (4 years experience)"
+    why: "Not getting promoted at my current job; want career advancement toward $100k+ AUD."
+    pivot: false
+    supporting_angles:
+      - "multicultural-lgbtq-health-program-lead"
+      - "content-and-channel-builder"
+      - "research-to-publication"
+      - "volunteer-and-people-coordinator"
+    must_have: []
+    avoid: []
+
+  - id: comms
+    label: "Communications, marketing, and content/design work for government agencies, NGOs, or universities"
+    titles:
+      - "Marketing Content Producer"
+      - "Communications Officer"
+    seniority: "early"
+    why: "Genuinely interested and confident I can do this well — I've run social media and campaigns as a secondary part of my current role, plus a lot of personal projects — but I don't have professional experience under this exact title yet."
+    pivot: true
+    supporting_angles:
+      - "content-and-channel-builder"
+    transferable: >
+      ev:0001 (launched and grew ACON Westie, a multicultural community
+      platform, to 3,205 followers across Instagram/TikTok/Facebook from
+      zero), ev:0002 (produces the platform's content pipeline — graphic
+      design in Adobe Illustrator/Photoshop, short-form video in CapCut,
+      blog/web copy), and ev:0008 (co-designs the health campaigns run
+      through it). This is genuine channel-building and content production
+      work, done as a secondary duty inside a health promotion role rather
+      than under a comms/marketing title.
+    known_gaps:
+      - "No professional job title or paid role with 'communications' or 'marketing' as the primary function"
+      - "No formal qualification in marketing, communications, or design"
+    must_have: []
+    avoid: []
