@@ -62,35 +62,67 @@ jd_keywords_top:
   - "preparing clear documentation"
 
 ats:
-  required_covered: 8
+  required_covered: 9
   required_total: 24
   preferred_covered: 0
   preferred_total: 0
   body_covered: 0
   body_total: 1
-  overall_covered: 8
+  overall_covered: 9
   overall_total: 25
   overused: []
   note: >
     Numbers are from bin/ats_score.py, run on the final resume.yaml and
-    cover.md. Nine of the sixteen required-tier misses are fragments of the
-    posting's targeted-recruitment and diversity sentence (identify as
-    aboriginal, strait islander and/or, islander and/or neurodiverse, strongly
-    encourage candidates, encourage, recruitment) or parser junk (see, similar
-    support roles). Those were deliberately not chased.
+    cover.md after the live review. "reporting" moved from miss to covered
+    once ev:0021 was added to the bank. Ten of the fifteen remaining
+    required-tier misses are fragments of the posting's targeted-recruitment
+    sentence (identify as aboriginal, strait islander and/or, islander and/or
+    neurodiverse, strongly encourage candidates, encourage, recruitment) or
+    parser junk (see, similar support roles). Those were deliberately not
+    chased. "project" was trimmed to 4 uses after the script flagged it as
+    over-used at 5.
 
 shortfalls:
   - "No project administration or project coordination title, and no project support role of any kind"
-  - "No records management experience, and no named EDRMS (no Content Manager/TRIM, SharePoint or equivalent in the bank)"
-  - "No project reporting or status-reporting evidence; the reports cited in the bank are ACON's, used as metric sources, not documents the candidate produced"
   - "No roads, active transport, infrastructure or transport-sector experience"
   - "No project management certification (PRINCE2, PMP, AgilePM)"
+  - "No formal project or status reporting against a project plan; the reporting evidence (ev:0021) is program outcome and evaluation reporting"
+retired_shortfalls:
+  - was: "No records management experience, and no named EDRMS"
+    resolved_by: "ev:0020 added at review: SharePoint document management, library structure, version control and access"
+  - was: "No project reporting or status-reporting evidence"
+    resolved_by: "ev:0021 added at review: project outcome and evaluation reports, internal and funder-facing"
 
-gaps:
-  - "Do you have records or document management system experience not captured in the bank (Content Manager/TRIM, SharePoint, Objective, a shared drive convention you owned)? Naming one would close the biggest miss on this posting honestly."
-  - "Do you produce any recurring written reports at ACON (monthly/quarterly program reporting, funder acquittals, board or KPI reports)? If so, that is missing evidence, not a shortfall."
-  - "Can you obtain the linked role description and information pack for ref 105567? It carries the NSW focus capabilities the panel scores against, and the letter should be re-spined on them."
-  - "This is a targeted recruitment encouraging candidates who identify as Aboriginal and/or Torres Strait Islander and/or Neurodiverse. Nothing in profile/ states your identity and nothing has been written into the resume or cover about it. Do you wish to self-identify in the application? You may decline to answer, and no draft will change unless you say so."
+gaps_answered:
+  - question: "Records or document management system experience not in the bank?"
+    answer: "SharePoint. Stores and organises program documentation, maintains the site/library structure, and manages document versions and access."
+    written_to_bank: "ev:0020"
+  - question: "Any recurring written reports at ACON?"
+    answer: "Project outcome reports and evaluation reports, both internal and funder-facing."
+    written_to_bank: "ev:0021"
+  - question: "Can you get the role description / information pack for ref 105567?"
+    answer: >
+      Not the pack, but the application's own question was supplied: "Please
+      share with us why you're interested in this role and some of the skills
+      and experiences you can bring. Answer size should be 1000 characters or
+      less." The application takes no cover letter, so cover.md was rewritten
+      as that answer (990 characters). The long letter is preserved as
+      cover-long-letter.md in case a later stage asks for one.
+  - question: "Do you want to self-identify under the targeted recruitment?"
+    answer: >
+      The candidate is neurodiverse, and is not Aboriginal or Torres Strait
+      Islander. They chose to state neurodiversity in the answer and tie it to
+      ev:0004 (designing Starting Out West with accessibility support for
+      neurodiverse and multicultural participants). Nothing in either document
+      claims or implies Aboriginal or Torres Strait Islander identity; the
+      "aboriginal" keyword scores as covered only via BlaQ Aboriginal
+      Corporation, a real employer and research partner.
+
+application_format:
+  type: "single free-text answer, no cover letter"
+  question: "Please share with us why you're interested in this role and some of the skills and experiences you can bring."
+  limit_characters: 1000
+  answer_length_characters: 990
 
 company_research: "blocked — every source refused by the network egress proxy; see profile/companies/transport-for-nsw.md"
 
@@ -99,3 +131,4 @@ files:
   resume_variant: "resume.yaml"
   resume: "resume.md"
   cover: "cover.md"
+  cover_long_letter: "cover-long-letter.md"

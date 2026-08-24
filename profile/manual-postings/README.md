@@ -20,4 +20,4 @@ hand and run `/log`.
 
 | File | Company | Title | Closes | Status |
 |---|---|---|---|---|
-| [transport-for-nsw-project-support-officer.md](transport-for-nsw-project-support-officer.md) | Transport for NSW | Project Support Officer | 2026-08-27 | new |
+| [transport-for-nsw-project-support-officer.md](transport-for-nsw-project-support-officer.md) | Transport for NSW | Project Support Officer | 2026-08-27 | drafted |

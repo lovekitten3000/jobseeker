@@ -8,7 +8,7 @@ reference: 105567
 employment_type: Permanent Full-Time
 salary_range: $95,543 - $100,405 AUD
 source: manual - pasted by the user
-status: new
+status: drafted
 
 ## JD text
 
