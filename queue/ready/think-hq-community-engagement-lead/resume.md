@@ -19,8 +19,11 @@ Aug 2022 - Present · Greater Western Sydney
 - Led the consultation, development and delivery of Start Making Sense, a workshop supporting LGBTQ+ Middle Eastern men to navigate culture and sexuality, with attendance meeting ACON's per-session target.
 - Designed and facilitated Starting Out West, a culturally responsive workshop built on lived-experience expertise, with accessibility support for multicultural and neurodiverse participants.
 - Trains and coordinates the peer educator workforce, building the capability to deliver workshops and engagement activities across Greater Sydney.
-- Evaluates and refines the legacy peer education workshops, including sessions on healthy relationships, sex education and identity.
 - Delivers targeted health promotion initiatives for priority populations working alongside ACON's First Nations Health Program, Women's Health Program and Asian Gay, Bi+, Queer Men's Project.
+- Coordinated across 9 teams at ACON to design and produce a resource setting out the organisation's priority populations peer work initiatives.
+- Conducts participant intakes in Penelope, handling sensitive information, identifying people who may need a different setting and referring them to other services.
+- Books venues and equipment, processes budget paperwork, manages participant data entry and databases, and keeps agendas and minutes across the team's programs.
+- Writes the evaluation reports and facilitator manuals the programs run on, and collects the evaluation data that shows who each program reached.
 - Launched and grew ACON Westie, a platform running across Instagram, TikTok and Facebook, from zero to 3,205 followers, with a focus on multicultural and underrepresented communities.
 
 **Research Assistant**, Western Sydney University  
@@ -50,7 +53,8 @@ Jul 2021 - Mar 2022
 ## Checks and Clearances
 
 - Holds a current Working With Children Check.
+- Holds a full unrestricted NSW driver's licence and is available to travel for work by car.
 
 ## Skills
 
-Community Consultation, Culturally Responsive Practice, Program Design, Program Delivery, Workshop Facilitation, Stakeholder Engagement, Partnership Development, Sector Collaboration, Program Evaluation, Volunteer Coordination, Training and Facilitation, Cross-Team Collaboration, Accessibility, Lived Experience Practice, LGBTQ+ Health Promotion, First Nations Partnership, Qualitative Research, Survey Design, Data Analysis, Policy Input
+Community Consultation, Culturally Responsive Practice, Program Design, Program Delivery, Workshop Facilitation, Stakeholder Engagement, Partnership Development, Sector Collaboration, Program Evaluation, Volunteer Coordination, Training and Facilitation, Cross-Team Collaboration, Accessibility, Lived Experience Practice, LGBTQ+ Health Promotion, First Nations Partnership, Qualitative Research, Survey Design, Data Analysis, Policy Input, Penelope, Client Information Systems, Case Management, Database Management, Participant Records, Budget Processing, Logistics Coordination, Eventbrite, Evaluation Reporting

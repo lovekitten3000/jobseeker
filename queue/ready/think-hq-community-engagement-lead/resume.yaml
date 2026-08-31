@@ -43,10 +43,16 @@ sections:
             ev: ev:0004
           - text: "Trains and coordinates the peer educator workforce, building the capability to deliver workshops and engagement activities across Greater Sydney."
             ev: ev:0006
-          - text: "Evaluates and refines the legacy peer education workshops, including sessions on healthy relationships, sex education and identity."
-            ev: ev:0011
           - text: "Delivers targeted health promotion initiatives for priority populations working alongside ACON's First Nations Health Program, Women's Health Program and Asian Gay, Bi+, Queer Men's Project."
             ev: ev:0012
+          - text: "Coordinated across 9 teams at ACON to design and produce a resource setting out the organisation's priority populations peer work initiatives."
+            ev: ev:0023
+          - text: "Conducts participant intakes in Penelope, handling sensitive information, identifying people who may need a different setting and referring them to other services."
+            ev: ev:0024
+          - text: "Books venues and equipment, processes budget paperwork, manages participant data entry and databases, and keeps agendas and minutes across the team's programs."
+            ev: ev:0025
+          - text: "Writes the evaluation reports and facilitator manuals the programs run on, and collects the evaluation data that shows who each program reached."
+            ev: ev:0032
           - text: "Launched and grew ACON Westie, a platform running across Instagram, TikTok and Facebook, from zero to 3,205 followers, with a focus on multicultural and underrepresented communities."
             ev: ev:0001
 
@@ -88,6 +94,8 @@ sections:
     bullets:
       - text: "Holds a current Working With Children Check."
         ev: ev:0020
+      - text: "Holds a full unrestricted NSW driver's licence and is available to travel for work by car."
+        ev: ev:0037
 
 skills:
   - "Community Consultation"
@@ -110,3 +118,12 @@ skills:
   - "Survey Design"
   - "Data Analysis"
   - "Policy Input"
+  - "Penelope"
+  - "Client Information Systems"
+  - "Case Management"
+  - "Database Management"
+  - "Participant Records"
+  - "Budget Processing"
+  - "Logistics Coordination"
+  - "Eventbrite"
+  - "Evaluation Reporting"

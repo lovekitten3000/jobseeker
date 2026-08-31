@@ -28,15 +28,21 @@ analysis across concurrent research projects, which is where I learned to hold
 several timelines at once. I would come to Think HQ expecting to learn from
 your senior engagement practitioners rather than to arrive fully formed.
 
+On records and coordination, I keep participant intakes in Penelope, manage
+the team's data entry and databases, process budget paperwork, and book the
+venues and equipment our programs run on. I write the evaluation reports and
+facilitator manuals too.
+
 I should be plain about where I fall short. My engagement experience is
 in-house at ACON, for ACON's own communities, so delivering against client
-briefs and supporting proposals would be new to me. I have coordinated
-participants and volunteers at scale, but not through a named CRM or
-participant database, and I would need to learn yours. I hold no project
+briefs and supporting proposals would be new to me. My records experience is
+in a case management system rather than a marketing CRM, so if yours is a
+different kind of system there would be one to learn. I hold no project
 management certification.
 
-I hold a current Working With Children Check, and I am available to travel
-nationally when the work requires it.
+I hold a current Working With Children Check and a full unrestricted
+driver's licence, and I am available to travel nationally when the work
+requires it.
 
 I would welcome a conversation about the projects the team has coming up and
 where I would be most useful on them.
