@@ -1,0 +1,141 @@
+# Variant — Blacktown City Council, Community Development Officer - Multicultural.
+# Track: primary. Angle: multicultural-lgbtq-health-program-lead.
+# Every bullet cites an ev in profile/evidence-bank.md. Employers, titles and
+# dates copied verbatim from profile/resume.yaml.
+
+name: "Duy Tran"
+
+contact:
+  email: "duyphongtran777@gmail.com"
+  phone: "0405 671 090"
+  location: "Sydney, NSW"
+  links:
+    - "https://www.linkedin.com/in/duy-tran-b431971a9/"
+
+angle: multicultural-lgbtq-health-program-lead
+
+sections:
+  - heading: Summary
+    bullets:
+      - text: "Community development and engagement practitioner with four years designing and delivering culturally responsive programs with culturally and linguistically diverse communities across Greater Western Sydney, reaching 300+ participants a year."
+        ev: ev:0005
+      - text: "Runs consultations that shape program direction and policy, and turns demographic and evaluation data into decisions about what to deliver."
+        ev: ev:0030
+      - text: "Builds and holds partnerships with health and mental health services, multicultural and faith-based organisations, migrant service providers and universities."
+        ev: ev:0007
+
+  - heading: Experience
+    entries:
+      - company: "ACON"
+        title: "Community Health Promotion Officer - Peer Education"
+        dates: "Aug 2022 - Present"
+        location: "Greater Western Sydney"
+        bullets:
+          - text: "Runs consultations with people from culturally and linguistically diverse backgrounds, young people and people of faith to inform program development, organisational priorities and policy initiatives."
+            ev: ev:0010
+          - text: "Reviewed participant demographic data, found people from culturally and linguistically diverse backgrounds under-represented, and used research and consultation to design a new initiative delivering health messaging through visual arts and social connection."
+            ev: ev:0030
+          - text: "Develops, delivers, evaluates and refines peer-led health promotion initiatives against ACON's Strategic Plan and the NSW HIV Strategy."
+            ev: ev:0033
+          - text: "Co-led Starting Out West, a culturally responsive workshop for multicultural and neurodiverse young adults, reaching a priority population that had not previously accessed ACON's services by identifying the access barriers in play and securing a Western Sydney partner organisation to host it in a trusted local space."
+            ev: ev:0004
+          - text: "Led the consultation, development and delivery of Start Making Sense, a workshop supporting LGBTQ+ Middle Eastern men to navigate culture and sexuality, with attendance meeting ACON's per-session target."
+            ev: ev:0003
+          - text: "Develops and maintains partnerships with Local Health Districts, faith-based organisations, mental health services, universities and migrant service providers, including Head to Health and the Western Sydney Migrant Resource Centre."
+            ev: ev:0007
+          - text: "Designs and delivers peer-led health promotion initiatives across Western Sydney, reaching 300+ participants a year."
+            ev: ev:0005
+          - text: "Facilitated a consultation with multicultural LGBTQ+ young people to inform the Australian Human Rights Commission's National Anti-Racism Framework."
+            ev: ev:0026
+          - text: "Coordinated across 9 teams at ACON to design and produce a resource setting out the organisation's priority populations peer work initiatives."
+            ev: ev:0023
+          - text: "Recruits, trains and coordinates a volunteer workforce of 60+ peer educators delivering workshops and engagement activities across Greater Sydney."
+            ev: ev:0006
+          - text: "Books venues and equipment, processes budget paperwork, manages participant data entry and databases, and keeps agendas and minutes across the team's programs."
+            ev: ev:0025
+          - text: "Identified and escalated the risks of bringing together participants of different faiths in one workshop during a period of high community tension, and supported volunteers affected by it."
+            ev: ev:0031
+          - text: "Advises research teams at UNSW, Western Sydney University and Monash University on research methodology and engagement with culturally and linguistically diverse communities."
+            ev: ev:0028
+          - text: "Writes the evaluation reports and facilitator manuals the programs run on, and collects the evaluation data that shows who each program reached."
+            ev: ev:0032
+          - text: "Conducts participant intakes in Penelope, handling sensitive information, identifying people who may need a different setting and referring them to other services."
+            ev: ev:0024
+          - text: "Works across Microsoft Word, Excel and PowerPoint and their Google Workspace equivalents, with Google Forms and SurveyMonkey for evaluation, Eventbrite for registration and Zoom for online delivery."
+            ev: ev:0034
+          - text: "Produces the programs' visual material in Adobe Illustrator and Photoshop, alongside blog and web copy."
+            ev: ev:0002
+          - text: "Active member of ACON's Reconciliation Action Plan Champions, supporting the implementation of initiatives that address Reconciliation Action Plan deliverables."
+            ev: ev:0029
+
+      - company: "Western Sydney University"
+        title: "Research Assistant"
+        dates: "Oct 2021 - Jul 2022"
+        bullets:
+          - text: "Conducted qualitative and quantitative analysis across concurrent research projects, drawing on survey data, interviews and community workshops."
+            ev: ev:0016
+          - text: "Worked with BlaQ Aboriginal Corporation and First Nations researchers to apply decolonised, strengths-based methods and ensure the research was informed by the people it was about."
+            ev: ev:0017
+          - text: "Lead-authored a scoping review of lateral violence and microaggressions among LGBTQ+ people, published in the Journal of Homosexuality and cited 78 times as of August 2026."
+            ev: ev:0014
+
+  - heading: Education
+    bullets:
+      - text: "Studying a Master of Health Leadership and Management / Master of Public Health at the University of New South Wales, from March 2025, current WAM 85."
+        ev: ev:0021
+      - text: "Bachelor of Social Science (Advanced) from Western Sydney University, Sociology major with an Applied Leadership sub-major, graduated with Distinction on a GPA of 6.5 out of 7.0."
+        ev: ev:0022
+
+  - heading: Volunteer Experience
+    entries:
+      - company: "YCollab"
+        title: "Volunteer, South-West Sydney Queer Safe Space"
+        dates: "Apr 2022 - Mar 2023"
+        bullets:
+          - text: "Helped build the operating framework for a safe space for young people in South-West Sydney, covering safety, anonymity, social isolation and inclusion across intersections."
+            ev: ev:0036
+
+      - company: "BlaQ Aboriginal Corporation"
+        title: "Volunteer & Intern"
+        dates: "Jul 2021 - Mar 2022"
+        bullets:
+          - text: "Planned and delivered online wellbeing workshops with BlaQ's Programs Coordinator for Aboriginal and Torres Strait Islander LGBTQ+ young people, running registration, participant liaison and delivery."
+            ev: ev:0035
+
+  - heading: Checks and Clearances
+    bullets:
+      - text: "Holds a current Working With Children Check."
+        ev: ev:0020
+      - text: "Holds a full unrestricted NSW driver's licence and is available to travel for work by car."
+        ev: ev:0037
+
+skills:
+  - "Multicultural Community Engagement"
+  - "Community Consultation"
+  - "Culturally Responsive Practice"
+  - "Lived Experience Practice"
+  - "Program Design"
+  - "Program Delivery"
+  - "Workshop Facilitation"
+  - "Stakeholder Engagement"
+  - "Partnership Development"
+  - "Service Sector Collaboration"
+  - "Policy Consultation"
+  - "Government Engagement"
+  - "Evidence-Based Practice"
+  - "Evaluation Reporting"
+  - "Qualitative Research"
+  - "Survey Design"
+  - "Data Analysis"
+  - "Volunteer Coordination"
+  - "First Nations Partnership"
+  - "Reconciliation Action Plan"
+  - "Microsoft Word"
+  - "Microsoft Excel"
+  - "Microsoft PowerPoint"
+  - "Google Workspace"
+  - "Eventbrite"
+  - "Penelope"
+  - "Client Information Systems"
+  - "Database Management"
+  - "Budget Processing"

@@ -118,8 +118,8 @@ role:       Community Health Promotion Officer – Peer Education, ACON
 dates:      2022-08 → present
 metric:     n/a
 confidence: qualitative
-scope:      partnerships spanning Local Health Districts, multicultural and faith-based organisations, sexual and reproductive health services, community organisations, mental health services, universities, and research bodies
-tags:       stakeholder engagement, partnership development, sector collaboration
+scope:      partnerships spanning Local Health Districts, multicultural and faith-based organisations, sexual and reproductive health services, community organisations, mental health services, universities, and research bodies. Named external organisations, from the candidate's ~2024 application (profile/past-applications/2024-selection-criteria-response.txt): Minus18, Twenty10, Head to Health, and the Western Sydney Migrant Resource Centre.
+tags:       stakeholder engagement, partnership development, sector collaboration, service sector collaboration, referral pathways
 angles:     multicultural-lgbtq-health-program-lead
 narrative: >
   Develop and maintain strategic partnerships with diverse stakeholders,
@@ -577,6 +577,30 @@ narrative: >
   Holds a full unrestricted NSW driver's licence and is able to travel for work
   using their own car. Recorded because community engagement and outreach roles
   routinely require it.
+
+### ev:0038 — Lived experience of the communities this work serves
+role:       n/a (personal)
+dates:      n/a
+metric:     n/a
+confidence: qualitative
+source:     the candidate's own words in their ~2024 application,
+            profile/past-applications/2024-ahrc-project-support-officer-cover-letter.txt
+            ("my lived experience growing up queer and Vietnamese in
+            Cabramatta") and in their ~2022 application,
+            profile/past-applications/2022-acon-gbq-mens-officer-selection-criteria.txt.
+scope:      the candidate's own account of their background, deployed by them in their own prior applications
+tags:       lived experience, cultural competence, community insight
+angles:     multicultural-lgbtq-health-program-lead
+narrative: >
+  Grew up queer and Vietnamese in Cabramatta, in South-West Sydney. The
+  candidate has used this in their own applications as evidence of insider
+  understanding of multicultural and LGBTQ+ communities, alongside, never
+  instead of, professional evidence.
+
+  DEPLOYMENT IS THE CANDIDATE'S CHOICE, EVERY TIME. Disclosing ethnicity or
+  sexuality on an application is personal and situational. Never include this
+  on a variant or a criteria response without the candidate saying so for that
+  specific application, and never treat its absence as a gap to fill.
 
 ## Shortfalls
 

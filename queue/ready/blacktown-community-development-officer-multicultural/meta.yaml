@@ -1,0 +1,38 @@
+company: "Blacktown City Council"
+title: "Community Development Officer - Multicultural"
+location: "Blacktown, NSW (Greater Western Sydney)"
+url: ""
+source: manual
+date: 2026-08-31
+status: queued
+slug: blacktown-community-development-officer-multicultural
+angle: multicultural-lgbtq-health-program-lead
+triage_score: 76
+track: primary
+red_flags: []
+closing_date: "2026-09-13"
+internal_ref: "BCC2145"
+contact_officer: "Claire Simmonds"
+salary_advertised: "$1,940.24 per week entry level, plus 12% superannuation and a car allowance"
+deliverable: >
+  Four written application questions, not a cover letter. The human asked for
+  the criteria responses only. criteria.md holds them; there is no cover.md
+  for this role.
+triage_reason: >
+  Close match to the primary track and the strongest compensation seen so far:
+  the advertised weekly rate is about $100,892 a year on a 52-week basis before
+  superannuation, which clears both the $85,000 floor and the $100,000 target
+  in goals.yaml, at the bottom of the band. Blacktown is Greater Western
+  Sydney, where the candidate already lives and works. Duties map directly onto
+  existing evidence: community consultation, demographic analysis, partnership
+  building, advisory committee support and multicultural program delivery.
+  Friction is sector rather than function, since all engagement experience is
+  NGO and university rather than local government, and the candidate's CALD
+  work has run through LGBTQ+ programs rather than general population community
+  development. The position description was not retrieved, so the formal
+  selection criteria are unseen.
+position_description: >
+  NOT RETRIEVED. Linked from the advertisement through a LinkedIn safety
+  redirect to applynow.net.au. LinkedIn is a red line 4 host with no
+  exceptions and applynow.net.au is not on the ATS allowlist. The four
+  questions answered here came from the human directly.
