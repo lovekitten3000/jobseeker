@@ -47,11 +47,13 @@ sections:
             ev: ev:0005
           - text: "Facilitated a consultation with multicultural LGBTQ+ young people to inform the Australian Human Rights Commission's National Anti-Racism Framework."
             ev: ev:0026
-          - text: "Launched and grew ACON Westie, a multicultural LGBTQ+ community platform for Western Sydney, from zero to 3,205 followers across Instagram, TikTok and Facebook."
+          - text: "Designed and built ACON Westie, a social media and community platform for multicultural LGBTQ+ communities in Western Sydney, answering a gap identified in ACON's engagement of multicultural communities and growing it from zero to 3,205 followers across Instagram, TikTok and Facebook."
             ev: ev:0001
+          - text: "Delivered Prosperity in Stride, a Lunar New Year celebration for multicultural LGBTQ+ communities in Western Sydney, promoted and filled through the ACON Westie platform."
+            ev: ev:0039
           - text: "Contributes to HIV education and advocacy initiatives that highlight the inequities experienced by multicultural LGBTQ+ communities within the HIV sector."
             ev: ev:0009
-          - text: "Co-designs and delivers culturally responsive sexual health campaigns for multicultural LGBTQ+ men and their partners in Western Sydney."
+          - text: "Co-designs and delivers culturally responsive sexual health campaigns for multicultural LGBTQ+ men and their partners in Western Sydney, working with community health organisations and the Western Sydney Local Health District."
             ev: ev:0008
           - text: "Represented ACON at Commonwealth health consultations, including the HIV Youth Roundtable for the Department of Health and Aged Care's HIV Taskforce and the Gay Men's Consultation for the National Action Plan for the Health and Wellbeing of LGBTIQA+ People."
             ev: ev:0027
@@ -137,6 +139,8 @@ skills:
   - "Advocacy"
   - "Health Equity"
   - "Campaign Development"
+  - "Event Delivery"
+  - "Community Events"
   - "Cross-Team Collaboration"
   - "Community Engagement"
   - "Community Engagement Advice"

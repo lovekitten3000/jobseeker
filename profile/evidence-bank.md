@@ -12,7 +12,7 @@ dates:      2022-08 → present
 metric:     3,205 followers (before → after: 0 → 3,205)
 confidence: measured
 source:     ACON Westie account analytics (Instagram, TikTok, Facebook)
-scope:      one platform, spanning three channels, targeting LGBTQ+ people in Western Sydney from multicultural backgrounds
+scope:      one platform, spanning three channels, targeting LGBTQ+ people in Western Sydney from multicultural backgrounds. Origin and design detail added 2026-08-31 from the candidate directly: the platform answered a gap the candidate identified in ACON's existing approach, which was not engaging multicultural communities effectively, and was designed in consultation with multicultural community members. It has since become the channel through which ACON reaches those communities, carrying events and collaborative campaigns.
 tags:       social media management, content strategy, platform launch, lgbtq+ health promotion, multicultural community engagement, community platform building
 angles:     content-and-channel-builder, multicultural-lgbtq-health-program-lead
 narrative: >
@@ -133,8 +133,8 @@ role:       Community Health Promotion Officer – Peer Education, ACON
 dates:      2022-08 → present
 metric:     n/a
 confidence: qualitative
-scope:      campaigns targeting multicultural LGBTQ+ men and their partners in Western Sydney
-tags:       campaign development, health promotion messaging, culturally responsive practice, sexual health
+scope:      campaigns targeting multicultural LGBTQ+ men and their partners in Western Sydney, delivered collaboratively with community health organisations and the Western Sydney Local Health District (partners named by the candidate 2026-08-31)
+tags:       campaign development, health promotion messaging, culturally responsive practice, sexual health, partnership development, local health district
 angles:     content-and-channel-builder
 narrative: >
   Co-design and deliver culturally responsive sexual health campaigns for
@@ -602,6 +602,22 @@ narrative: >
   on a variant or a criteria response without the candidate saying so for that
   specific application, and never treat its absence as a gap to fill.
 
+### ev:0039 — Ran "Prosperity in Stride", a Lunar New Year community celebration
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      [GAP] year not yet recorded
+metric:     n/a
+confidence: qualitative
+source:     the candidate, 2026-08-31. Attendance, date and the candidate's exact
+            role on the event are [GAP]s — see ## Open questions.
+scope:      a Lunar New Year celebration for multicultural LGBTQ+ communities in Western Sydney, reached through the ACON Westie platform
+tags:       event delivery, community events, cultural celebration, multicultural community engagement, lgbtq+ health promotion
+angles:     multicultural-lgbtq-health-program-lead, content-and-channel-builder
+narrative: >
+  Delivered Prosperity in Stride, a Lunar New Year celebration for
+  multicultural LGBTQ+ communities in Western Sydney, promoted and filled
+  through the ACON Westie platform. One of the events showing that the
+  platform converts online reach into people turning up in person.
+
 ## Shortfalls
 
 - No formal qualification in marketing, communications, or design — comms
@@ -635,6 +651,15 @@ Raised 2026-08-31 while mining `profile/past-applications/`. Each is a [GAP] —
 a fact about the candidate that is not yet known, never to be guessed at.
 
 ### Still open
+
+- **Prosperity in Stride (ev:0039)**: what year, roughly how many attended, and
+  what exactly was the candidate's role (concept, delivery, promotion, all of
+  it)? Recorded without these rather than guessed at.
+- **The Western Sydney campaign featuring community members and locations**:
+  raised by the candidate 2026-08-31 and not yet written up. Needs its name,
+  its health topic, who featured and how they were recruited, which locations,
+  the candidate's own role, and any outcome. Nothing about it may be drafted
+  until these are answered.
 
 - **How many consultations, workshops and partner organisations, in total?**
   The largest missing numbers in the bank. Specifically: consultations run at

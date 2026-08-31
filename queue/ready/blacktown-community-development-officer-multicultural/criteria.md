@@ -31,16 +31,26 @@ space those communities already trusted. The workshop has since expanded in both
 content and locations, and that partnership has extended into other ACON
 projects.
 
-My work with CALD communities is not limited to workshops. I co-design
-culturally responsive sexual health campaigns for multicultural LGBTQ+ men and
-their partners, and I built ACON Westie, a multicultural LGBTQ+ community
-platform in Western Sydney, from nothing to 3,205 followers. I use evidence to
-decide what to run: reviewing participant demographic data, I found
-multicultural community members were under-represented in our sexual health
-workshops, and used academic research together with community consultation to
-design a new initiative delivering sexual health messaging through visual arts
-and social connection, on the evidence that CALD community members engaged more
-readily through social events than an overt health framing.
+My work with CALD communities is not limited to workshops. As part of my role I
+designed and developed ACON Westie, a social media and community platform for
+CALD LGBTQ+ communities in Western Sydney, built from nothing to 3,205 followers
+across Instagram, TikTok and Facebook. It answered a gap I had identified in
+ACON's approach, which was not engaging multicultural communities effectively. I
+designed it in consultation with multicultural community members, so the
+platform was shaped by the people it was for, and it has since become the
+channel through which ACON reaches those communities. It carries our health
+promotion content, it has brought multicultural community members to events
+including Prosperity in Stride, our Lunar New Year celebration, and it supports
+collaborative health campaigns delivered with community health organisations and
+the Western Sydney Local Health District.
+
+I also use evidence to decide what to run. Reviewing participant demographic
+data, I found multicultural community members were under-represented in our
+sexual health workshops, and used academic research together with community
+consultation to design a new initiative delivering sexual health messaging
+through visual arts and social connection, on the evidence that CALD community
+members engaged more readily through social events than an overt health
+framing.
 
 Nor is it limited to community-facing work. Bringing a synthesis of community
 engagement expertise and prior research experience, I have worked with
