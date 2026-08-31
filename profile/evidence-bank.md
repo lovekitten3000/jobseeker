@@ -294,6 +294,268 @@ narrative: >
   workshops exploring the wellbeing, experiences, and support needs of First
   Nations LGBTQ+ young people.
 
+### ev:0020 — Holds a current Working With Children Check
+role:       n/a (credential)
+dates:      current
+metric:     n/a
+confidence: qualitative
+scope:      NSW Working With Children Check, held and current as of August 2026
+tags:       working with children check, wwcc, community engagement
+angles:     volunteer-and-people-coordinator
+narrative: >
+  Holds a current Working With Children Check, confirmed by the candidate on
+  2026-08-24. Recorded because community engagement roles routinely make
+  appointment conditional on it.
+
+### ev:0021 — Studying a Master of Health Leadership and Management / Master of Public Health
+role:       n/a (qualification)
+dates:      2025-03 → present
+metric:     current WAM 85
+confidence: measured
+source:     profile/resume.yaml, the candidate's canonical record of their own
+            qualifications. Transcribed into the bank 2026-08-24 so education
+            can appear on a variant (render.py requires an ev: on every bullet).
+scope:      University of New South Wales, in progress
+tags:       public health, health leadership, health management, postgraduate study
+narrative: >
+  Studying a Master of Health Leadership and Management / Master of Public
+  Health at the University of New South Wales, commenced March 2025 and
+  ongoing. Current WAM 85.
+
+### ev:0022 — Bachelor of Social Science (Advanced), graduated with Distinction
+role:       n/a (qualification)
+dates:      2019-03 → 2021-11
+metric:     GPA 6.5 out of 7.0
+confidence: measured
+source:     profile/resume.yaml, the candidate's canonical record of their own
+            qualifications. Transcribed into the bank 2026-08-24 so education
+            can appear on a variant (render.py requires an ev: on every bullet).
+scope:      Western Sydney University, Sociology major, Applied Leadership sub-major
+tags:       sociology, applied leadership, undergraduate study, intersectionality, gender and sexuality studies, race and ethnicity
+narrative: >
+  Bachelor of Social Science (Advanced) from Western Sydney University,
+  Sociology major with an Applied Leadership sub-major, graduated with
+  Distinction on a GPA of 6.5 out of 7.0. Academic focus on race and
+  ethnicity, gender, sexuality, and intersectionality.
+
+### ev:0023 — Coordinated across 9 ACON teams to produce a priority-populations resource
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     9 teams coordinated across
+confidence: measured
+source:     the candidate's own selection criteria response, written ~2024 —
+            profile/past-applications/2024-selection-criteria-response.txt. Date of the specific project is a [GAP].
+scope:      one pamphlet resource covering ACON's priority populations peer work initiatives, built by consulting nine internal teams
+tags:       cross-team collaboration, resource development, graphic design, internal communications, stakeholder engagement
+angles:     content-and-channel-builder
+narrative: >
+  Communicated and coordinated across nine teams within ACON to design and
+  produce a pamphlet resource setting out the organisation's priority
+  populations peer work initiatives, reflecting each community's own language
+  and lived experience.
+
+### ev:0024 — Conducts client intakes in a client information system, with risk triage and referral
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      intakes and records for peer group participants, using Penelope; includes suitability assessment and referral out
+tags:       penelope, client information systems, database management, data entry, participant records, confidential information handling, risk identification, referral pathways, case management
+angles:     coordination-and-systems-backbone
+narrative: >
+  Conducts participant intakes using client information systems including
+  Penelope, handling sensitive information and data, identifying and seeking
+  advice on participants who may not be suited to a peer group environment,
+  and referring people on to other services.
+
+### ev:0025 — Runs the operational and administrative spine of team program delivery
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      ongoing administrative support across the team's programs and events
+tags:       budget processing, venue booking, equipment booking, logistics coordination, data entry, database management, minute-taking, agenda setting, administrative coordination, graphic design
+angles:     coordination-and-systems-backbone
+narrative: >
+  Provides the administrative backbone for the team's program delivery: venue
+  and equipment booking, budget processing support, data entry and database
+  management, graphic design for presentations and health promotion media, and
+  agenda arrangement and minute-taking.
+
+### ev:0026 — Facilitated a consultation informing the AHRC's National Anti-Racism Framework
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      one consultation with CALD LGBTQ+ young people, feeding a national policy framework
+tags:       policy consultation, national policy, community consultation, anti-racism, government engagement
+angles:     policy-and-government-consultation
+narrative: >
+  Facilitated a consultation with culturally and linguistically diverse LGBTQ+
+  young people to inform the Australian Human Rights Commission's National
+  Anti-Racism Framework, bringing community voice into a national policy
+  process.
+
+### ev:0027 — Represented ACON at Commonwealth health policy consultations
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      two named Commonwealth forums — the HIV Youth Roundtable for the Department of Health and Aged Care's HIV Taskforce, and the Gay Men's Consultation for the 10 Year National Action Plan for the Health and Wellbeing of LGBTIQA+ People
+tags:       policy consultation, government engagement, lived experience consultation, hiv, national policy, representing the organisation
+angles:     policy-and-government-consultation
+narrative: >
+  Represented ACON at Commonwealth health policy consultations, providing
+  lived experience input at the HIV Youth Roundtable for the Department of
+  Health and Aged Care's HIV Taskforce, and at the Gay Men's Consultation for
+  the Department's 10 Year National Action Plan for the Health and Wellbeing of
+  LGBTIQA+ People.
+
+### ev:0028 — Advised university research teams on methodology and community engagement
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      advisory to research teams at UNSW, Western Sydney University and Monash University, on two named projects — gay, bi+ and queer Asian men's HIV prevention needs, and Christian LGBTQIA+ African heritage refugees' community connection
+tags:       research advisory, research methodology, community engagement advice, university partnership, hiv prevention
+angles:     research-to-publication, policy-and-government-consultation
+narrative: >
+  Advises university research teams at UNSW, Western Sydney University and
+  Monash University on research methodology and community engagement,
+  including projects on gay, bi+ and queer Asian men's HIV prevention needs and
+  on Christian LGBTQIA+ African heritage refugees' community connection.
+
+### ev:0029 — Active member of ACON's Reconciliation Action Plan Champions
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      internal cross-organisational group advancing Reconciliation Action Plan deliverables
+tags:       reconciliation action plan, first nations partnership, internal advocacy, organisational change
+angles:     volunteer-and-people-coordinator
+narrative: >
+  Active member of ACON's Reconciliation Action Plan Champions, advocating for
+  and supporting the implementation of initiatives that address Reconciliation
+  Action Plan deliverables, to improve the wellbeing and engagement of
+  Aboriginal and Torres Strait Islander staff and community members.
+
+### ev:0030 — Designed an evidence-led, arts-based initiative after evaluation data showed under-reach
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      one new initiative, designed in response to participant demographic data showing under-representation of CALD community members
+tags:       evidence-based practice, program design, evaluation data, arts-based engagement, health promotion messaging, community consultation
+angles:     multicultural-lgbtq-health-program-lead
+narrative: >
+  Reviewed participant demographic data, found culturally and linguistically
+  diverse community members under-represented in the sexual health workshops,
+  and used academic research together with community consultation to design a
+  new initiative delivering sexual health messaging through visual arts and
+  social connection. Built on evidence that CALD community members engaged more
+  readily through social events than through overtly sexual health framing.
+
+### ev:0031 — Held safety and risk in a cross-faith workshop during a period of high community tension
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      Start Making Sense: Middle Eastern Men, run with Muslim, Christian and Jewish participants and volunteers through the Hamas/Israel conflict
+tags:       risk identification, escalation, trauma-informed practice, volunteer support, group safety, culturally responsive practice, conflict navigation
+angles:     multicultural-lgbtq-health-program-lead, volunteer-and-people-coordinator
+narrative: >
+  Identified and escalated the risks of bringing together participants of
+  different faiths, including Muslim, Christian and Jewish participants, in one
+  workshop environment during the Hamas/Israel conflict, and managed the safety
+  and dynamics of volunteers and participants holding differing perspectives.
+  Supported volunteers who had experienced personal loss because of the
+  conflict. The workshop held, and the community connection it built is
+  sustained through an ACON volunteer-led social group.
+
+### ev:0032 — Produces evaluation reports, facilitator manuals and program documentation
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      ongoing documentation across the team's workshops and events
+tags:       evaluation reporting, program documentation, facilitator manuals, technical writing, evaluation data collection
+angles:     coordination-and-systems-backbone
+narrative: >
+  Writes the documentation the programs run on: evaluation reports, facilitator
+  manuals and program records. Collects evaluation data from workshops and
+  events so the team can see who its programs reached and where delivery needs
+  to change.
+
+### ev:0033 — Works to the NSW HIV Strategy and ACON's Strategic Plan
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      peer-led health promotion initiatives developed, delivered, evaluated and refined against ACON's Strategic Plan and the NSW HIV Strategy 2021-2025
+tags:       strategic alignment, health policy frameworks, nsw hiv strategy, program planning
+angles:     multicultural-lgbtq-health-program-lead
+narrative: >
+  Develops, implements, evaluates and refines peer-led health promotion
+  initiatives in line with ACON's Strategic Plan and the NSW HIV Strategy
+  2021-2025.
+
+### ev:0034 — Runs the digital toolset for engagement, registration and evaluation
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2021-07 → present
+metric:     n/a
+confidence: qualitative
+scope:      tools used across ACON, Western Sydney University and BlaQ for registration, survey, delivery and reporting
+tags:       microsoft word, microsoft excel, microsoft powerpoint, google workspace, google forms, surveymonkey, eventbrite, zoom, adobe illustrator, adobe photoshop, capcut, spreadsheets, survey tools
+angles:     coordination-and-systems-backbone
+narrative: >
+  Uses the standard toolset of community program delivery: Microsoft Word,
+  Excel and PowerPoint and their Google Workspace equivalents for documents,
+  data and presentations; Google Forms and SurveyMonkey for surveys and
+  evaluation; Eventbrite for registration; Zoom for online delivery.
+
+### ev:0035 — Coordinated registration, participant liaison and online delivery for BlaQ workshops
+role:       Volunteer & Intern, BlaQ Aboriginal Corporation
+dates:      2021-07 → 2022-03
+metric:     n/a
+confidence: qualitative
+scope:      workshops with Aboriginal and Torres Strait Islander LGBTQ+ young people aged 18-25, delivered online, forming part of a community roadmap
+tags:       event coordination, eventbrite, participant liaison, online facilitation, zoom, logistics coordination, youth work
+angles:     volunteer-and-people-coordinator, coordination-and-systems-backbone
+narrative: >
+  Built and monitored the Eventbrite registration page, liaised with
+  participants by email and phone, and ran the online delivery for BlaQ's
+  workshops with Aboriginal and Torres Strait Islander LGBTQ+ young people aged
+  18 to 25. The workshops formed part of a community roadmap developed with
+  Western Sydney University.
+
+### ev:0036 — Helped build the safety and inclusion framework for a queer youth safe space
+role:       Volunteer, YCollab
+dates:      2022-04 → 2023-03
+metric:     n/a
+confidence: qualitative
+scope:      design of the operating framework for a queer safe space in South-West Sydney
+tags:       service design, safety framework, accessibility, youth work, community consultation, lgbtq+ community work
+angles:     volunteer-and-people-coordinator
+narrative: >
+  Contributed to the framework for a queer safe space in South-West Sydney:
+  identifying safety concerns and the need for anonymity in queer spaces,
+  recognising the social isolation queer young people experience and planning
+  to mitigate it through community connection, and setting measures to include
+  queer people across all intersections.
+
+### ev:0037 — Holds a full unrestricted NSW driver's licence and travels for work by car
+role:       n/a (credential)
+dates:      current
+metric:     n/a
+confidence: qualitative
+scope:      full (unrestricted) NSW driver's licence, with access to own vehicle
+tags:       drivers licence, own vehicle, travel
+angles:     coordination-and-systems-backbone
+narrative: >
+  Holds a full unrestricted NSW driver's licence and is able to travel for work
+  using their own car. Recorded because community engagement and outreach roles
+  routinely require it.
+
 ## Shortfalls
 
 - No formal qualification in marketing, communications, or design — comms
@@ -308,6 +570,39 @@ narrative: >
 - No project management certification (e.g. PMP, PRINCE2, AgilePM).
 - Detailed engagement/reach metrics for ACON Westie beyond follower count
   are not currently tracked or on hand [GAP].
+- Participant and client records are kept in Penelope, a case management
+  system (ev:0024), alongside spreadsheets and databases (ev:0025). This is
+  real client-information-system experience, so a posting asking for "CRM"
+  experience is a partial match, not a blank: the honest line is no experience
+  of a named sales or marketing CRM such as Salesforce or HubSpot, if a
+  posting means that kind. Do not write "no CRM or database experience" — that
+  was true of the bank before 2026-08-31 and is not true of the candidate.
+- Budget involvement is processing support (ev:0025), not holding or
+  acquitting a budget line. State it at that level and no higher.
+- Formal supervision of paid staff remains ad hoc (ev:0013). The volunteer
+  workforce (ev:0006) and the RAP Champions membership (ev:0029) are
+  coordination and influence, not line management.
+
+## Open questions
+
+Raised 2026-08-31 while mining `profile/past-applications/`. Each is a [GAP] —
+a fact about the candidate that is not yet known, never to be guessed at.
+
+- **Is the CALD LGBTQ+ young adults workshop in Western Sydney (described in
+  the 2024 documents) the same program as Starting Out West (ev:0004)?** They
+  are written up separately in different sources and may be one thing. If they
+  are the same, ev:0004 should absorb the partnership, expansion and
+  first-time-reach detail.
+- **When was the 9-team pamphlet resource produced (ev:0023)?** Undated.
+- **Are the Australian Electoral Commission (issuing officer) and Coles
+  (service team member) roles wanted on the record?** Both appear in the 2022
+  document but neither is in `profile/resume.yaml`, which only the human edits.
+  Dates unknown.
+- **Are the workshop evaluation scores retrievable as numbers?** Two documents
+  refer to "high evaluation scores" without a figure. If the evaluation data
+  is on hand, several qualitative entries could become measured.
+- **How many consultations, workshops and partner organisations, in total?**
+  Still the largest missing numbers in the bank.
 
 ## Angles
 
@@ -334,4 +629,18 @@ serves: primary
 claim:  Recruits, trains, and sustains volunteer and junior-staff capacity
         to deliver community programs at scale.
 proof:  ev:0006, ev:0013, ev:0018, ev:0019
+serves: primary
+
+### angle: coordination-and-systems-backbone
+claim:  Runs the operational spine that community programs depend on —
+        participant records, budgets, venues, registration and evaluation
+        data — so delivery holds together and can be reported on.
+proof:  ev:0024, ev:0025, ev:0032, ev:0034, ev:0035, ev:0037
+serves: primary
+
+### angle: policy-and-government-consultation
+claim:  Carries community voice into government and national policy
+        processes, and advises researchers on how to reach communities
+        that are hard to reach well.
+proof:  ev:0026, ev:0027, ev:0028
 serves: primary
