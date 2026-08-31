@@ -358,11 +358,12 @@ narrative: >
 
 ### ev:0023 — Coordinated across 9 ACON teams to produce a priority-populations resource
 role:       Community Health Promotion Officer – Peer Education, ACON
-dates:      2022-08 → present
+dates:      2023-02
 metric:     9 teams coordinated across
 confidence: measured
 source:     the candidate's own selection criteria response, written ~2024 —
-            profile/past-applications/2024-selection-criteria-response.txt. Date of the specific project is a [GAP].
+            profile/past-applications/2024-selection-criteria-response.txt.
+            Dated February 2023 by the candidate on 2026-08-31.
 scope:      one pamphlet resource covering ACON's priority populations peer work initiatives, built by consulting nine internal teams
 tags:       cross-team collaboration, resource development, graphic design, internal communications, stakeholder engagement
 angles:     content-and-channel-builder
@@ -566,6 +567,9 @@ role:       n/a (credential)
 dates:      current
 metric:     n/a
 confidence: qualitative
+source:     recorded from the candidate's ~2022 application,
+            profile/past-applications/2022-acon-gbq-mens-officer-selection-criteria.txt,
+            and confirmed still current by the candidate on 2026-08-31.
 scope:      full (unrestricted) NSW driver's licence, with access to own vehicle
 tags:       drivers licence, own vehicle, travel
 angles:     coordination-and-systems-backbone
@@ -608,18 +612,19 @@ a fact about the candidate that is not yet known, never to be guessed at.
 
 ### Still open
 
-- **When was the 9-team pamphlet resource produced (ev:0023)?** Undated. Even
-  a season and year would let it be placed.
 - **How many consultations, workshops and partner organisations, in total?**
   The largest missing numbers in the bank. Specifically: consultations run at
   ACON, and whether any produced a named report, submission or an actual
   change in what ACON does; cumulative workshop sessions delivered since
   August 2022; and how many partner organisations, split into formal
   (funded, MOU, standing reference group) versus warm contact.
-- **Is the driver's licence (ev:0037) still current?** It was recorded from a
-  2022 document and now appears on a live application.
 
 ### Closed
+
+- **When was the 9-team resource produced?** Answered 2026-08-31: February
+  2023. ev:0023 dated accordingly.
+- **Is the driver's licence still current?** Answered 2026-08-31: yes.
+  Confirmed on ev:0037, which is on a live application.
 
 - **Is the CALD LGBTQ+ young adults workshop the same program as Starting Out
   West?** Answered 2026-08-31: yes. Merged into ev:0004, which also moved from
