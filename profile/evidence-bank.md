@@ -294,6 +294,30 @@ narrative: >
   workshops exploring the wellbeing, experiences, and support needs of First
   Nations LGBTQ+ young people.
 
+### ev:0020 — Maintain ACON's program documentation in SharePoint, including structure and version control
+role:       Community Health Promotion Officer - Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      team SharePoint site/libraries holding program documentation for peer education work
+tags:       sharepoint, document management, records management, version control, information management, project documentation
+narrative: >
+  Store and organise program documentation in SharePoint, maintain the site
+  and library structure the team works from, and manage document versions and
+  access so colleagues are working from the current copy.
+
+### ev:0021 — Write project outcome and evaluation reports for internal and funder audiences
+role:       Community Health Promotion Officer - Peer Education, ACON
+dates:      2022-08 → present
+metric:     n/a
+confidence: qualitative
+scope:      end-of-program internal reports plus scheduled external and funder-facing reporting
+tags:       reporting, project reporting, evaluation, program evaluation, report writing, stakeholder reporting
+narrative: >
+  Write project outcome and evaluation reports covering peer education
+  programs, both internal reports produced at the end of a program round for
+  ACON, and scheduled reporting to funders and partner organisations.
+
 ## Shortfalls
 
 - No formal qualification in marketing, communications, or design — comms

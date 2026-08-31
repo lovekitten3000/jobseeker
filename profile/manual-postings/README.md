@@ -15,3 +15,9 @@ scraping). Each file carries the JD text, a fit read against the evidence bank
 Pursue → a tailored markdown draft, reviewed live in the same session. Hold or
 pass → the note stays here with its status. Never auto-submitted; you apply by
 hand and run `/log`.
+
+## Postings
+
+| File | Company | Title | Closes | Status |
+|---|---|---|---|---|
+| [transport-for-nsw-project-support-officer.md](transport-for-nsw-project-support-officer.md) | Transport for NSW | Project Support Officer | 2026-08-27 | drafted |

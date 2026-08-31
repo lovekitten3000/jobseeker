@@ -1,0 +1,134 @@
+# meta.yaml — Transport for NSW, Project Support Officer (job ref 105567)
+date: "2026-08-24"
+company: "Transport for NSW"
+title: "Project Support Officer"
+status: "queued"
+url: ""
+
+source: "found by the human, added via /add (interactive)"
+job_ref: "105567"
+location: "Sydney, NSW 2000"
+employment_type: "Permanent Full-Time"
+salary_range: "AUD 95,543 - 100,405"
+closes: "2026-08-27"
+contact: "ANNE.TRAN@TRANSPORT.NSW.GOV.AU"
+
+triage:
+  score: 45
+  track: "none"
+  reason: >
+    Title matches primary track exactly, but the posting is for
+    transport/infrastructure project support, not health/community
+    initiatives. The candidate's stated goal is project work in
+    health/community domains at government agencies or NGOs. Domain mismatch
+    means no track served. Evidence shows program delivery and volunteer
+    coordination; the JD asks for project administration, documentation
+    management, and operational coordination — a hard function fit problem.
+  red_flags:
+    - "Domain mismatch: posting is infrastructure (Roads/Transport), candidate's track specifies health/community initiatives"
+    - "Role is project administrative support; candidate's evidence is program design/delivery/research, not operational coordination"
+    - "No evidence of project administration, records management, or documentation-coordination experience"
+
+track: "none"
+track_note: >
+  No track in goals.yaml covers this posting. The human chose to pursue it
+  anyway under /add. Every angle in the evidence bank serves the primary
+  (health/community) track, so the variant is positioned on an argument the
+  bank framed for a different domain.
+
+angle: "multicultural-lgbtq-health-program-lead"
+angle_fit: "partial"
+angle_note: >
+  Closest available fit, chosen because its proof entries cover the terms this
+  posting repeats most (project/delivery coordination, stakeholder, community
+  consultation). Its claim is health-domain, and the documentation half of the
+  JD is carried by evidence outside the angle (ev:0014, ev:0015, ev:0016,
+  ev:0002).
+angle_proof_led_with:
+  - "ev:0005"
+  - "ev:0007"
+  - "ev:0003"
+
+jd_keywords_top:
+  - "project"
+  - "information"
+  - "documentation"
+  - "stakeholder"
+  - "project coordination"
+  - "competing priorities"
+  - "delivery"
+  - "reporting"
+  - "records management"
+  - "preparing clear documentation"
+
+ats:
+  required_covered: 9
+  required_total: 24
+  preferred_covered: 0
+  preferred_total: 0
+  body_covered: 0
+  body_total: 1
+  overall_covered: 9
+  overall_total: 25
+  overused: []
+  note: >
+    Numbers are from bin/ats_score.py, run on the final resume.yaml and
+    cover.md after the live review. "reporting" moved from miss to covered
+    once ev:0021 was added to the bank. Ten of the fifteen remaining
+    required-tier misses are fragments of the posting's targeted-recruitment
+    sentence (identify as aboriginal, strait islander and/or, islander and/or
+    neurodiverse, strongly encourage candidates, encourage, recruitment) or
+    parser junk (see, similar support roles). Those were deliberately not
+    chased. "project" was trimmed to 4 uses after the script flagged it as
+    over-used at 5.
+
+shortfalls:
+  - "No project administration or project coordination title, and no project support role of any kind"
+  - "No roads, active transport, infrastructure or transport-sector experience"
+  - "No project management certification (PRINCE2, PMP, AgilePM)"
+  - "No formal project or status reporting against a project plan; the reporting evidence (ev:0021) is program outcome and evaluation reporting"
+retired_shortfalls:
+  - was: "No records management experience, and no named EDRMS"
+    resolved_by: "ev:0020 added at review: SharePoint document management, library structure, version control and access"
+  - was: "No project reporting or status-reporting evidence"
+    resolved_by: "ev:0021 added at review: project outcome and evaluation reports, internal and funder-facing"
+
+gaps_answered:
+  - question: "Records or document management system experience not in the bank?"
+    answer: "SharePoint. Stores and organises program documentation, maintains the site/library structure, and manages document versions and access."
+    written_to_bank: "ev:0020"
+  - question: "Any recurring written reports at ACON?"
+    answer: "Project outcome reports and evaluation reports, both internal and funder-facing."
+    written_to_bank: "ev:0021"
+  - question: "Can you get the role description / information pack for ref 105567?"
+    answer: >
+      Not the pack, but the application's own question was supplied: "Please
+      share with us why you're interested in this role and some of the skills
+      and experiences you can bring. Answer size should be 1000 characters or
+      less." The application takes no cover letter, so cover.md was rewritten
+      as that answer (990 characters). The long letter is preserved as
+      cover-long-letter.md in case a later stage asks for one.
+  - question: "Do you want to self-identify under the targeted recruitment?"
+    answer: >
+      The candidate is neurodiverse, and is not Aboriginal or Torres Strait
+      Islander. They chose to state neurodiversity in the answer and tie it to
+      ev:0004 (designing Starting Out West with accessibility support for
+      neurodiverse and multicultural participants). Nothing in either document
+      claims or implies Aboriginal or Torres Strait Islander identity; the
+      "aboriginal" keyword scores as covered only via BlaQ Aboriginal
+      Corporation, a real employer and research partner.
+
+application_format:
+  type: "single free-text answer, no cover letter"
+  question: "Please share with us why you're interested in this role and some of the skills and experiences you can bring."
+  limit_characters: 1000
+  answer_length_characters: 990
+
+company_research: "blocked — every source refused by the network egress proxy; see profile/companies/transport-for-nsw.md"
+
+files:
+  jd: "jd.md"
+  resume_variant: "resume.yaml"
+  resume: "resume.md"
+  cover: "cover.md"
+  cover_long_letter: "cover-long-letter.md"

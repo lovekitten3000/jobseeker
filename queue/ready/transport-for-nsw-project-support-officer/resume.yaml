@@ -1,0 +1,120 @@
+# Variant — Transport for NSW, Project Support Officer (ref 105567)
+# Triage: 45, track: none (domain mismatch). Human chose to pursue anyway.
+angle: multicultural-lgbtq-health-program-lead
+
+name: "Duy Tran"
+
+contact:
+  email: "duyphongtran777@gmail.com"
+  phone: "0405 671 090"
+  location: "Sydney, NSW"
+  links:
+    - "https://www.linkedin.com/in/duy-tran-b431971a9/"
+
+sections:
+  - heading: "Professional Summary"
+    bullets:
+      - text: "Community health promotion officer with four years designing and delivering initiatives that reach 300+ participants a year across Western Sydney."
+        ev: "ev:0005"
+      - text: "Works in a stakeholder rich environment, holding partnerships with Local Health Districts, multicultural and faith-based organisations, community services, universities and research bodies."
+        ev: "ev:0007"
+      - text: "Coordinates a volunteer workforce of 60+ peer educators across Greater Sydney, keeping rosters, training and workshop commitments moving against competing priorities."
+        ev: "ev:0006"
+      - text: "Maintains program documentation in SharePoint, keeping the library structure, document versions and access current so the team works from the right copy."
+        ev: "ev:0020"
+      - text: "Writes outcome and evaluation reports for both internal management and funder audiences, and prepares documentation to a published standard."
+        ev: "ev:0021"
+
+  - heading: "Experience"
+    entries:
+      - company: "ACON"
+        title: "Community Health Promotion Officer - Peer Education"
+        dates: "Aug 2022 - Present"
+        location: "Greater Western Sydney"
+        bullets:
+          - text: "Design and deliver peer-led health promotion initiatives for LGBTQ+ communities across Western Sydney, reaching 300+ participants a year."
+            ev: "ev:0005"
+          - text: "Develop and maintain partnerships with a wide stakeholder base, including Local Health Districts, multicultural and faith-based organisations, sexual and reproductive health services, mental health services, universities and research bodies."
+            ev: "ev:0007"
+          - text: "Maintain the team's program documentation in SharePoint, owning the library structure and managing document versions and access so colleagues work from the current copy."
+            ev: "ev:0020"
+          - text: "Write project outcome and evaluation reports at the end of each program round for ACON management, and scheduled reporting for funders and partner organisations."
+            ev: "ev:0021"
+          - text: "Took Start Making Sense, a workshop for LGBTQ+ Middle Eastern men, from community consultation through development to delivery, with sessions meeting ACON's internal per-session attendance KPI of around 10 to 20 participants."
+            ev: "ev:0003"
+          - text: "Designed and facilitate Starting Out West, a Western Sydney workshop built on lived-experience expertise, with accessibility support for multicultural and neurodiverse participants."
+            ev: "ev:0004"
+          - text: "Recruit, train, coordinate and support a volunteer workforce of 60+ peer educators delivering workshops and community engagement activities across Greater Sydney."
+            ev: "ev:0006"
+          - text: "Produce the materials behind each initiative, preparing social tiles and graphics in Adobe Illustrator and Photoshop, short-form video in CapCut, blog articles and web copy."
+            ev: "ev:0002"
+          - text: "Run community consultations with multicultural communities, young people and people of faith, and carry what they surface into program development, organisational priorities and policy work."
+            ev: "ev:0010"
+          - text: "Work alongside ACON's First Nations Health Program, Women's Health Program and Asian Gay, Bi+, Queer Men's Project to deliver initiatives for priority populations."
+            ev: "ev:0012"
+
+      - company: "Western Sydney University"
+        title: "Research Assistant"
+        dates: "Oct 2021 - Jul 2022"
+        location: "Casual"
+        bullets:
+          - text: "Ran qualitative and quantitative analysis across concurrent research projects on LGBTQ+ community experiences and health inequities, working from survey data, interviews and community workshops."
+            ev: "ev:0016"
+          - text: "Lead-authored a scoping review of lateral violence and microaggressions in LGBTQ+ communities, published in the Journal of Homosexuality and cited 78 times as of August 2026."
+            ev: "ev:0014"
+          - text: "Co-authored three peer-reviewed papers on Indigenous LGBTIQ+ experiences of service provision, education and belonging in Australia."
+            ev: "ev:0015"
+          - text: "Worked with BlaQ Aboriginal Corporation and First Nations LGBTQ+ researchers to apply decolonised, strengths-based methods and keep the research community-informed."
+            ev: "ev:0017"
+
+      - company: "YCollab"
+        title: "Volunteer, South-West Sydney Queer Safe Space"
+        dates: "Apr 2022 - Mar 2023"
+        bullets:
+          - text: "Supported the development and delivery of a safe space for LGBTQ+ young people in South-West Sydney, contributing to community engagement and youth-focused activities."
+            ev: "ev:0018"
+
+      - company: "BlaQ Aboriginal Corporation"
+        title: "Volunteer & Intern"
+        dates: "Jul 2021 - Mar 2022"
+        bullets:
+          - text: "Planned and delivered online wellbeing workshops for First Nations LGBTQ+ young people with BlaQ's Programs Coordinator."
+            ev: "ev:0019"
+
+  - heading: "Education"
+    entries:
+      - title: "Master of Health Leadership and Management / Master of Public Health"
+        dates: "Mar 2025 - Present"
+        location: "University of New South Wales, current WAM 85"
+      - title: "Bachelor of Social Science (Advanced), Sociology Major, Applied Leadership Sub-major"
+        dates: "Mar 2019 - Nov 2021"
+        location: "Western Sydney University, Distinction, GPA 6.5/7.0"
+
+skills:
+  - "Project Documentation"
+  - "Records Management"
+  - "Document Management"
+  - "SharePoint"
+  - "Version Control"
+  - "Information Management"
+  - "Report Writing"
+  - "Program Evaluation"
+  - "Stakeholder Engagement"
+  - "Stakeholder Reporting"
+  - "Program Delivery"
+  - "Volunteer Coordination"
+  - "Partnership Development"
+  - "Community Consultation"
+  - "Program Design"
+  - "Cross-Team Collaboration"
+  - "Workshop Facilitation"
+  - "Training and Facilitation"
+  - "Workforce Development"
+  - "Academic Writing"
+  - "Data Analysis"
+  - "Qualitative Research"
+  - "Quantitative Research"
+  - "Content Creation"
+  - "Graphic Design"
+  - "Accessibility"
+  - "Culturally Responsive Practice"
