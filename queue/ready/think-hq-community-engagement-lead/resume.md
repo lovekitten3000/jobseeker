@@ -17,7 +17,7 @@ Aug 2022 - Present · Greater Western Sydney
 - Develops partnerships with Local Health Districts, sexual and reproductive health services and mental health services to strengthen ACON's presence in Western Sydney.
 - Designs and delivers peer-led health promotion initiatives for LGBTQ+ communities across Western Sydney, reaching 300+ participants a year.
 - Led the consultation, development and delivery of Start Making Sense, a workshop supporting LGBTQ+ Middle Eastern men to navigate culture and sexuality, with attendance meeting ACON's per-session target.
-- Designed and facilitated Starting Out West, a culturally responsive workshop built on lived-experience expertise, with accessibility support for multicultural and neurodiverse participants.
+- Co-led Starting Out West, a culturally responsive workshop for CALD and neurodiverse LGBTQ+ young adults, reaching a priority population that had not previously accessed ACON's services and securing a Western Sydney partner organisation to host it.
 - Trains and coordinates the peer educator workforce, building the capability to deliver workshops and engagement activities across Greater Sydney.
 - Delivers targeted health promotion initiatives for priority populations working alongside ACON's First Nations Health Program, Women's Health Program and Asian Gay, Bi+, Queer Men's Project.
 - Coordinated across 9 teams at ACON to design and produce a resource setting out the organisation's priority populations peer work initiatives.

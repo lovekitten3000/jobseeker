@@ -51,21 +51,39 @@ narrative: >
   navigate the intersection of culture and sexuality. Attendance meets
   ACON's internal per-session KPI (approx. 10–20 participants).
 
-### ev:0004 — Designed and facilitated "Starting Out West" for multicultural and neurodiverse participants
+### ev:0004 — Co-led "Starting Out West" for CALD and neurodiverse LGBTQ+ young adults
 role:       Community Health Promotion Officer – Peer Education, ACON
 dates:      2022-08 → present
 metric:     n/a
 confidence: measured
-source:     ACON internal workshop attendance/session records
-scope:      approx. 10–20 participants per session, meeting ACON's programmatic attendance KPI
-tags:       workshop facilitation, program design, accessibility, lived experience practice, lgbtq+ health promotion, culturally responsive practice
+source:     ACON internal workshop attendance/session records. Delivery detail
+            merged 2026-08-31 from the candidate's own ~2024 application,
+            profile/past-applications/2024-selection-criteria-response.txt and
+            .../2024-ahrc-project-support-officer-cover-letter.txt, which the
+            candidate confirmed describe this same workshop.
+            NOTE ON "CO-LED": this entry previously read "Led the design and
+            facilitation". Both 2024 documents say "co-led", twice. The
+            weaker, contemporaneous word is used here deliberately. If the
+            candidate's own share of the work was in fact lead rather than
+            co-lead, they can correct this — but it must be corrected here
+            first, never stretched on a variant.
+scope:      approx. 10–20 participants per session, meeting ACON's programmatic attendance KPI; run with ACON's Multicultural and Greater Western Sydney Community Engagement Team and an external Western Sydney partner organisation
+tags:       workshop facilitation, program design, accessibility, lived experience practice, lgbtq+ health promotion, culturally responsive practice, partnership development, access barriers, cross-team collaboration
 angles:     multicultural-lgbtq-health-program-lead
 narrative: >
-  Led the design and facilitation of Starting Out West, a culturally
-  responsive LGBTQ+ workshop for Western Sydney communities, built around
-  lived-experience expertise and accessibility support for multicultural and
-  neurodiverse participants. Attendance meets ACON's internal per-session KPI
-  (approx. 10–20 participants).
+  Co-led the design and delivery of Starting Out West, a culturally responsive
+  LGBTQ+ workshop for Western Sydney communities, built around
+  lived-experience expertise with accessibility support for multicultural and
+  neurodiverse participants. Reached an intersectional priority population
+  that had historically not accessed ACON's services, by identifying the
+  access barriers in play — geographic distance and cultural safety in LGBTQ+
+  spaces — and working across internal teams and external partners to remove
+  them. Secured a Western Sydney partner organisation to host the workshop in
+  a safe community space. The workshop has since expanded in both content and
+  locations across Western Sydney, and the partner relationship has extended
+  into other ACON projects. Attendance meets ACON's internal per-session KPI
+  (approx. 10–20 participants); participant evaluations were strong, though
+  the scores are not currently retrievable.
 
 ### ev:0005 — Peer-led health promotion initiatives reaching 300+ participants a year
 role:       Community Health Promotion Officer – Peer Education, ACON
@@ -588,21 +606,31 @@ narrative: >
 Raised 2026-08-31 while mining `profile/past-applications/`. Each is a [GAP] —
 a fact about the candidate that is not yet known, never to be guessed at.
 
-- **Is the CALD LGBTQ+ young adults workshop in Western Sydney (described in
-  the 2024 documents) the same program as Starting Out West (ev:0004)?** They
-  are written up separately in different sources and may be one thing. If they
-  are the same, ev:0004 should absorb the partnership, expansion and
-  first-time-reach detail.
-- **When was the 9-team pamphlet resource produced (ev:0023)?** Undated.
-- **Are the Australian Electoral Commission (issuing officer) and Coles
-  (service team member) roles wanted on the record?** Both appear in the 2022
-  document but neither is in `profile/resume.yaml`, which only the human edits.
-  Dates unknown.
-- **Are the workshop evaluation scores retrievable as numbers?** Two documents
-  refer to "high evaluation scores" without a figure. If the evaluation data
-  is on hand, several qualitative entries could become measured.
+### Still open
+
+- **When was the 9-team pamphlet resource produced (ev:0023)?** Undated. Even
+  a season and year would let it be placed.
 - **How many consultations, workshops and partner organisations, in total?**
-  Still the largest missing numbers in the bank.
+  The largest missing numbers in the bank. Specifically: consultations run at
+  ACON, and whether any produced a named report, submission or an actual
+  change in what ACON does; cumulative workshop sessions delivered since
+  August 2022; and how many partner organisations, split into formal
+  (funded, MOU, standing reference group) versus warm contact.
+- **Is the driver's licence (ev:0037) still current?** It was recorded from a
+  2022 document and now appears on a live application.
+
+### Closed
+
+- **Is the CALD LGBTQ+ young adults workshop the same program as Starting Out
+  West?** Answered 2026-08-31: yes. Merged into ev:0004, which also moved from
+  "led" to "co-led" on the strength of the 2024 wording.
+- **Are the Australian Electoral Commission and Coles roles wanted on the
+  record?** Answered 2026-08-31: no, both left off. Do not re-raise.
+- **Are the workshop evaluation scores retrievable as numbers?** Answered
+  2026-08-31: the data exists but is not currently accessible. Treat as known
+  and unretrieved, not as absent. Workshop quality stays directional until the
+  figures are on hand; attendance remains the only workshop metric that may be
+  stated as a number.
 
 ## Angles
 
