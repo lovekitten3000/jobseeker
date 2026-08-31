@@ -19,7 +19,9 @@ which I did by identifying and escalating the risk rather than managing it
 quietly, and by supporting volunteers who were personally affected. My ability
 to facilitate trust with CALD communities and hold their differences in one room
 resulted in a workshop built on the solidarity of culture and sexuality, and the
-connection it created is sustained through a volunteer-led social group.
+connection it created is sustained through a volunteer-led social group. It has
+received the highest evaluation scores of all ACON peer education workshops to
+date.
 
 I have also co-led Starting Out West, a culturally responsive workshop for
 multicultural and neurodiverse LGBTQ+ young adults, which reached an
@@ -43,6 +45,40 @@ promotion content, it has brought multicultural community members to events
 including Prosperity in Stride, our Lunar New Year celebration, and it supports
 collaborative health campaigns delivered with community health organisations and
 the Western Sydney Local Health District.
+
+The clearest example of that platform and my community work coming together is
+Keeping It Real, a sexual health campaign we co-created with The West Ball,
+Australia's largest recurring ballroom event, which draws 300+ attendees who
+are majority trans and gender diverse and from multicultural backgrounds. West
+Ball approached us with the idea, continuing a partnership ACON has held with
+them for four years. The campaign answered a real problem: Greater Western
+Sydney has a divergent HIV epidemic in which overseas-born communities are
+over-represented and notification rates are rising, while the inner city's
+gains have not been shared.
+
+We built it on a culture-first approach, beginning from community members'
+cultural identity and their connection to place rather than treating culture as
+the obstacle to work around. That meant sharing power at every stage:
+community members ideated the campaign's look, scouted the talent, and wrote
+and reviewed the health messaging. The imagery shows multicultural and First
+Nations LGBTQ+ people in Western Sydney doing ordinary things, grocery
+shopping, getting bubble tea, going for a late-night feed with friends. We shot
+it in Cabramatta, chosen deliberately to counter the narrative of Western
+Sydney as a place without queer community, and I used my own Vietnamese to ask
+shop owners for permission to film in their shops, which is the difference
+between representing a place and borrowing it as a backdrop. The name draws on
+the "realness" categories of ballroom culture, and doubles as an invitation to
+keep it real about sexual health where that is culturally difficult.
+
+Over five weeks the campaign delivered 776,242 impressions and reached 440,390
+people across digital platforms on a modest budget, with outdoor advertising
+across Greater Western Sydney including Parramatta, Liverpool, Auburn,
+Merrylands, Cabramatta and Blacktown stations, and 320 posters distributed to
+sexual health clinics and community venues. It supported over 500 direct
+community interactions at events, distributing 316 condoms and more than 100
+HIV self-test kits. The feedback that mattered most came from community members
+and ballroom house leaders, who told us this was a campaign they could see
+themselves in.
 
 I also use evidence to decide what to run. Reviewing participant demographic
 data, I found multicultural community members were under-represented in our

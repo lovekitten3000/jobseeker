@@ -42,8 +42,9 @@ dates:      2022-08 → present
 metric:     n/a
 confidence: measured
 source:     ACON internal workshop attendance/session records
-scope:      approx. 10–20 participants per session, meeting ACON's programmatic attendance KPI
-tags:       workshop facilitation, program design, community consultation, lgbtq+ health promotion, culturally responsive practice
+scope:      approx. 10–20 participants per session, meeting ACON's programmatic attendance KPI. Originated from a need expressed by community members, which led to a Middle Eastern Working Group being established to codesign the workshop. For many participants it is the first time they have engaged with any LGBTQ+ group or ACON service.
+            EVALUATION OUTCOME, from the candidate's Multicultural Health Conference speaker notes (profile/work-samples/multicultural-health-conference-presentation-speech.txt): this workshop "received the highest evaluation scores of all ACON Peer Ed workshops to date". Comparative, not a number. State it as the comparative claim it is and never attach a score to it.
+tags:       workshop facilitation, program design, community consultation, lgbtq+ health promotion, culturally responsive practice, codesign, working group, strengths-based practice
 angles:     multicultural-lgbtq-health-program-lead
 narrative: >
   Led the consultation, development, and delivery of Start Making Sense:
@@ -618,6 +619,72 @@ narrative: >
   through the ACON Westie platform. One of the events showing that the
   platform converts online reach into people turning up in person.
 
+### ev:0040 — Co-created "Keeping It Real", a codesigned HIV campaign reaching 440,390 people
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      2025-09 → 2025-10
+metric:     440,390 total reach across digital platforms; 776,242 impressions; 398,322 paid reach; 4,071 landing page views
+confidence: measured
+source:     profile/work-samples/2025-keeping-it-real-campaign-evaluation-report.txt, the campaign's own evaluation report, plus the candidate's
+            presentation speaker notes at profile/work-samples/2025-keeping-it-real-presentation-speech.txt.
+            CONFLICT: the Multicultural Health Conference speech (profile/work-samples/multicultural-health-conference-presentation-speech.txt) states
+            "over 130,000 accounts and nearly 400,000 views" for this campaign.
+            The evaluation report's itemised figures are used. See ## Open questions.
+scope:      a five-week sexual health and HIV prevention campaign for Western Sydney LGBTQ+ communities, co-created by ACON Westie with The West Ball, supported by EndingHIV. Multi-channel: paid and organic social, outdoor advertising across Greater Western Sydney, a custom landing page, and community outreach.
+tags:       campaign development, codesign, community codesign, health promotion messaging, culturally responsive practice, sexual health, hiv prevention, social media management, content strategy, outdoor advertising, partnership development, multicultural community engagement, power sharing, evaluation data
+angles:     content-and-channel-builder, multicultural-lgbtq-health-program-lead
+narrative: >
+  Co-created Keeping It Real, a sexual health campaign built with The West
+  Ball, Australia's largest recurring ballroom event, which draws 300+
+  attendees who are majority trans and gender diverse and from multicultural
+  backgrounds. West Ball approached ACON with the idea, continuing a four-year
+  partnership whose first campaign ran in 2022.
+
+  The campaign answered a divergent HIV epidemic in Greater Western Sydney in
+  which overseas-born communities are over-represented and notification rates
+  are rising. It was built on a culture-first approach, starting from
+  community members' cultural identity and connection to place rather than
+  treating culture as an obstacle. Power was shared through every stage:
+  community members ideated the aesthetic, scouted the talent, and wrote and
+  reviewed the health messaging.
+
+  The imagery showed multicultural and First Nations LGBTQ+ people in Western
+  Sydney doing ordinary things, grocery shopping, getting bubble tea, going for
+  a late-night feed. The photoshoot was held in Cabramatta, chosen to counter
+  the narrative of Western Sydney as a place without queer community. The team
+  used their own Vietnamese to ask shop owners for permission to shoot in their
+  shops. The name draws on the "realness" categories of ballroom culture.
+
+  Over five weeks it delivered 776,242 impressions, 398,322 paid reach and
+  440,390 total reach across digital platforms, with 4,071 landing page views
+  against a modest budget. The launch video drew 13,132 views; organic content
+  across Instagram, TikTok and Facebook drew 38,936 views. Outdoor advertising
+  ran across Greater Western Sydney including Parramatta, Liverpool, Auburn,
+  Merrylands, Lidcombe, Cabramatta, Strathfield and Blacktown stations, with
+  320 posters distributed to sexual health clinics and community venues. The
+  campaign supported over 500 direct community interactions at events, with 316
+  condoms and more than 100 HIV self-test kits distributed. Feedback from
+  community members and ballroom house leaders was that this was a campaign
+  they saw themselves in.
+
+### ev:0041 — Presents ACON's multicultural health promotion work at sector conferences
+role:       Community Health Promotion Officer – Peer Education, ACON
+dates:      [GAP] dates of the presentations not yet recorded
+metric:     n/a
+confidence: qualitative
+source:     the candidate's own speaker notes, profile/work-samples/multicultural-health-conference-presentation-speech.txt and profile/work-samples/2025-keeping-it-real-presentation-speech.txt.
+scope:      conference and sector presentations, including a Multicultural Health Conference presentation co-delivered with the Greater Western Sydney Team Leader, and a presentation on the Keeping It Real campaign
+tags:       public speaking, conference presentation, sector representation, health promotion, knowledge translation
+angles:     policy-and-government-consultation, multicultural-lgbtq-health-program-lead
+narrative: >
+  Presents the team's multicultural health promotion work to sector audiences.
+  A Multicultural Health Conference presentation set out the divergent HIV
+  epidemic in Greater Western Sydney and argued against the "deficit
+  narrative" that blames multicultural communities' cultures for poor health
+  outcomes, proposing instead that culture be treated as an enabler of
+  wellbeing and that lived experience sit at every level of the workforce
+  including leadership. Case studies presented included SMS ME, West Ball and
+  ACON Westie.
+
 ## Shortfalls
 
 - No formal qualification in marketing, communications, or design — comms
@@ -651,6 +718,28 @@ Raised 2026-08-31 while mining `profile/past-applications/`. Each is a [GAP] —
 a fact about the candidate that is not yet known, never to be guessed at.
 
 ### Still open
+
+- **What was the candidate's own share of Keeping It Real (ev:0040)?** Both
+  source documents are written in the first person plural: "our team's latest
+  campaign", and the evaluation says "the ACON Westie Team co-developed" it.
+  The candidate presented the campaign externally and built the platform it ran
+  on. That is not the same as having led its creation. Until they say
+  otherwise, drafts say co-created and describe the team's work as the team's.
+  This repo already made the opposite error once, on ev:0004.
+- **What was the candidate's own share of creating ACON Westie (ev:0001)?**
+  They have described it as "I have designed and developed"; their own
+  conference speech says "creation was led by our team, drawing from our own
+  lived experience, alongside consultation from community members". Both can be
+  true if they led it within the team, but the wording must be settled before
+  either is asserted.
+- **When did ACON Westie launch?** The conference speech says "launched in
+  February this year" without a year, and gives "over 1.7k followers on IG
+  alone" and "the fastest growing ACON social media to date". ev:0001 carries
+  3,205 across three channels. The launch year and the date each follower
+  figure was taken are unrecorded.
+- **When were the two presentations delivered (ev:0041)?** Neither speech is
+  dated, and the Multicultural Health Conference is not identified by year or
+  host.
 
 - **Prosperity in Stride (ev:0039)**: what year, roughly how many attended, and
   what exactly was the candidate's role (concept, delivery, promotion, all of
